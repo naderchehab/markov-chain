@@ -1,23 +1,8 @@
-Simple Express Static File Server
-=================================
+Markov Chain
+===========================================
 
 Description
 -----------
+English Text Generator using Markov Chains. I did this after being inspired by this video: https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/a-mathematical-theory-of-communication
 
-A very simple static file server. For development use only.
-
-Install dependencies (first time only):
-
-    $ npm install
-
-How to start:
-
-    $ node server
-
-Open [http://localhost:4567](http://localhost:4567)
-
-If you need a different port:
-
-    $ PORT=9999 node server
-
-Open [http://localhost:9999](http://localhost:9999)
+You can see a demo here: http://markov-chain.herokuapp.com/
