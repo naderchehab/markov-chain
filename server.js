@@ -19,7 +19,7 @@ app.get("/", function (req, res) {
         for (var i = 0; i < files.length; i++) {
             files[i] = dir + path.sep + files[i];
         }
-        markov.get(files, 500, 7, function(text) {
+        markov.get(files, 500, 2, function(text) {
             res.header('Content-Type', 'text/plain');
             res.end(text);
         });
