@@ -1,0 +1,400 @@
+*******************************************************************************
+[Title:Challenges and Strategy]
+[Author:Bill Gates]
+[Scanned:Mike Godwin <mnemonic@eff.org>]
+[Checked:Mike Godwin <mnemonic@eff.org>]
+[ID:*]
+[Revision:1]
+[Source:OBI]
+[Copyright:1991 - William Gates]
+[Category:Reference-Computers]
+[Abstract:*]
+*******************************************************************************
+
+
+
+
+Challenges and Strategy
+Bill Gates
+May 16, 1991
+
+ 
+
+Prologue:  The Reason for this Memo
+-----------------------------------
+
+Every year I set aside at least one "think week" to get away and update
+myself on the latest technical developments -- reading PhD theses, using
+competitive products, reading books, newsletters and anything I can get
+my hands on.  Several valuable thoughts have come out of these retreats
+(tables for Word, outlining in Excel, treating DOS as more of an asset),
+however the complexity of the industry and its techology means that a lot
+of my time is spent just trying to keep up rather than coming up with new
+product ideas.  It is no longer possible for any person, even our "architects",
+to understand everything that is going on.  Networking, processors, linguistics,
+multimedia, development tools, and user interfaces are just a subset of the
+technologies that will affect Microsoft.  My role is to understand enough
+to set direction.  I enjoy these weeks a great deal -- not because I get
+away from the issues of running Microsoft but rather because I get to think 
+more clearly about how to best lead the company away from problems and 
+toward opportunities.  A lot of people choose things for me to read.  By
+the end of the week I make an effort to synthesize the best ideas and make 
+our technical strategy clear.
+
+This year I decided to write a memo about overall strategy to the executive
+staff.  As we have grown and faced new challenges my opportunities to speak
+to each of you directly has been greatly reduced.  Even the aspects of our
+strategy that remain unchanged are worth reinforcing.
+
+In the same way that DEC's strategy for the 80's was VAX -- one architecture,
+one operating system -- our strategy for the 90's is Windows -- one
+evolving architecture, a couple of implementations.  Everything we do should
+focus on making Windows more successful.
+
+A source of inspiration to me is a memo by John Walker of Autodesk called
+"Autodesk:  The Final Days" (copies available from JulieG).  It's brilliantly
+written and incredibly insightful.  John hasn't been part of Autodesk
+management for three years and hasn't attended any management meetings for
+over two years, so he writes as an outsider questioning whether Autodesk is
+doing the right things.  By talking about how a large company slows down, 
+fails to invest enough and loses sight of what is important, and by using
+Microsoft as an example of how to do some things correctly he manages to
+touch on a lot of what's right and wrong with Microsoft today. Amazingly
+his nightmare scenario to get people to consider what's really important
+is Microsoft deciding to enter the CAD market -- something we have no
+present thoughts of doing because it would stretch us too thin.  Our
+nightmare -- IBM "attacking" us in systems software, Novell "defeating" us
+in networking and more agile, lower cost structure, customer-oriented
+applications, competitors getting their Windows to act together is not
+a scenario, but a reality.
+
+Recently a long time employee mentioned that we seem to have more challenges
+facing us now than ever before.  Although I agree that it feels that way
+I can say with confidence that it has felt that way every year for the
+last 15.  We decided to pursue a broad product strategy from the very
+beginning of the company and that means we have a lot of competitors.
+Our success is incredible, not just within the software industry or computer
+industry but within the history of business, and the combination of this
+with the incredibly competitive nature of our business breeds challenges to 
+our position.  I think it is critical to divide these challenges into different categories.
+
+Category 1
+----------
+
+This category containes issues of great importance but which I judge should
+have little effect on how you do your job or our future.
+
+APPLE LAW SUIT:  This is a very serious lawsuit.  If the judge rules against
+us, without making it clear what we have to change or asks us to eliminate
+something fundamental to all windowing systems (like overlapping windows)
+it would be disastrous.  At the very start of this lawsuit we decided that
+Bill Neukom and I would give it very high priority and that the rest of the
+executive staff could focus on their jobs without learning about the complex
+twists and turns of the lawsuit.  Microsoft is spending millions to defend
+features contained every popular windows system on the market and to help
+set the boundaries of where copyrights should and should not be applied.  I
+think it is absurd that the lawsuit is taking so long and that we are
+educating the third federal judge on the case.  I am pleased with our
+work on this case.  Our view that we will almost certainly prevail remains
+unchanged.
+
+FEDERAL TRADE COMMISSION:  It must be surprising that our two most visible
+problems are in this category.  Certainly I take the FTC inquiry seriously
+and I am sure it will use up even more executive staff time than the Apple
+lawsuit has.  However I know we don't get unfair advantages in any of the
+markets we are in.  As Ruthann Quindlen stated recently in InfoWorld 
+(supported by many other editorials like Businessweek's) our combination
+of products is similar to that of every other high technology company and our
+success is based on having great products.  I hope we can quickly educate
+the FTC on our business.
+
+RETIREMENT OF KEY EXECUTIVES: The retirement of Jon Shirley and Jeremy
+Butler -- absolutely two of the finest executives anywhere -- are significant
+losses for Microsoft.  Last year's "think week" was my worst, because Mike
+Hallman called me to say Jeremy was planning to retire.  I had Jeremy fly
+out and meet with me for hours to try and change his mind.  I am sure more
+people will be retiring in the future.  However, I am confident that we are
+developing a lot of great people internally and that we are hiring the
+best people from outside the company.  Just look at some of the recent 
+additions to our executive staff -- people like Brad Silverberg, Jeff
+Raikes and Gary Gidot.  Consider the talent pool right below the executive
+staff level -- Jim Alichin, Pete Higgins, Patty Stonesifer, Rob Glaser,
+Mike Murray, Mike Brown, and so many others.  I love working with people
+of this caliber -- not only do they do a good job but they keep me doing
+my best.  I certainly have no plans to back off from my dedication to the
+company.
+
+PRINTER BUSINESS UNIT:  Generally when we enter a product category, we
+innovate.  Even if our first version is not a winner we establish a position
+>from which we can make further improvements.  Our entry into the printer
+software business has not succeeded.  Steve is considering what strategy
+we shoud pursue to make the best of our errors.  Our problems have educated
+us to consider carefully the importanance and synergy of doing new things.
+Offering cheap Postscript turned out to not only be very hard but completely
+irrelevent to helping our other products.  We overestimated the threat of
+Adobe as a competitor and ended up making them an "enemy", while we hurt
+our relationship with Hewlett-Packard and focused on non-Windows specific
+issues.  Selecting TrueType as a our font solution and building it into
+the system was an excellent design decision despite the immense resources that
+has cost us.  TrueType -- our font format -- is separate from TrueImage
+-- our Postscript clone.  Printing is critical and we will be involved in
+printing software, but in a a different way than we have to date.  The caution
+we have shown in making acquisitions is reinforced by this experience.
+
+Category 2
+----------
+
+These are problems that are serious but solving them correctly will
+provide growth so they can be thought of as opportunities.
+
+DISLIKE OF MICROSOFT/OPENESS:  Our applications have always succeeded
+based on their own merit rather than on some benefit of unfair knowledge
+of system software.  We need to explain our hardware neutral approach and
+the benefits that has generated for end users.  We need to have visible events
+on a regular basis where we solicit the input of anyone who wants to influence
+our future direction.  If we can institutionalize a process that the world 
+feels comfortable with, we will strengthen our position incredibly.  This is
+going to require a lot more creativity than even the "Open Forums" we are
+discussing.  UNIX has OSF and X/Open -- we also need clear ways for 
+organizations of all types (hardware, ISV, IHV, corporation, universities) to
+feel like they have something invested in our approach and can affect our
+course.
+
+IBM:  IBM is proposing to take over the definition of PC desktop operating
+systems.  This would be a new role for them -- their previous attempts:
+Topview and the 3270 control program, did not succeed.  The barriers to thier
+success are not only technical but structural.  Why are they willing to lose
+so much money on systems software?  The answer is that they have a plan to
+design the operating system so that their hardware (MCA) and applications
+are tied in.  Our disagreements with IBM over OS/2 were that we wanted to
+push 2.0 and they wanted to push 1.3.  Now they have switched to the
+strategy that we proposed -- even using our marketing slogan "better windows
+than Windows".  We will not attack IBM as a company and even our public
+"attacks" on OS/2 will be very professional.  Our strategy is make sure
+that we evolve the Windows API and get developers to take advantage of the
+new features rapidly, while IBM has a poor product with poor Windows 
+functionality.  Amazingly they are not cooperating with us on our
+compatibility approach called WLO, but are trying the approach we did not
+choose of using Windows code itself.  Their lack of cooperation limits WLO
+effectiveness and the Windows approach has contractual and technical problems
+for them.  We will do almost no work specific to OS/2 2.0 -- we will rely
+on their 1.3 compatibility to run our applications and most of our networking
+software. Our focus is on OS/2 3.0.  If a cusotmer buys OS/2 2.0, the problem
+for us is that they expect to get Extended Edition and perhpas some PM16 
+applications that may not be on 3.0 so we may have "lost" that customer.
+Other than usability, making sure Windows is the winning OS is our highest
+priority.  Eventually we need to have at least a neutral relationship with
+IBM.  For the next 24 months it may be fairly cold.  If we do succeed, then we
+will be done forever with the poor code, poor design, poor process, and other
+overhead that doing our best to do what IBM has led us to (for the past five
+years).  We can emerge as a better and stronger company where people won't
+just say we are the standard because IBM chose us.  In the large accounts
+IBM will retain a some of its influence -- this is where our risk is
+highest.
+
+USABILITY/SUPPORT:  If there is any area we have not paid enough attention
+to it is usability/support.  It is really embarrassing that people have to
+wait so long on the phone to talk to us about problems in our products.  The
+number of customers who get bad impression because of this must number in
+the millions worldwide.  Why weren't we hiring at full speed and picking a new
+site every day for the last three years?  Why did people keep talking about 
+support as a profit center?  The creation of support as a channel hid its costs
+>from the product groups.  As CEO I take full responsiblity for these mistakes. 
+Our products can be far more usable and the product groups are focusing on
+this opportunity -- particularly the Windows and Windows applications groups.
+We will spend what it takes to have the best support (without an 800 number).
+I think we can cut the number of phone calls generated by our products to
+less than half of what it is today and use training and technology to cut the
+length of the phone calls.  However, we shouldn't assume this in our plans to 
+solve the problem.  Excel 3, Win Word 2 and our BBU products have started to
+move us in the right direction.  Hopefully Windows 3.1 will generate a lot less
+calls.  The bandwidth of communications between the product groups and PSS
+is going up dramatically, but there is still lots of room for creativity.  I
+insist that we are able to use our quality of support as a sales tool.  
+Surveys like the J.D. Powers survey done on cars will become important --
+asking people:  How many times were you confused?  How many times did you
+have to call?  How good was the service you received?  Fixing this problem
+will cost us a lot of profits and we should make that clear to analysis.
+With this problem fixed we can really start building some lifetime customers.
+Only really usable software can be used by the "rest of the people who have
+not bought PCs", so making software more usable expands the market.  Likewise
+it is the usability of software that will determine how many people decide to
+use only a WORKS-like product or move up to a larger package and it will 
+determine how many large packages they can easily work with.  Usability is
+incredible stuff -- once it is designed it is easy to implement, saves money,
+wins market share, makes customers happy and lets them buy more expensive
+software!
+
+NETWORKING:  We knew it wasn't going to be easy but it has been even harder 
+than we expected to build a position in networking.  You will see us 
+backing off on some of the spending level but don't doubt that we are
+totally committed to the business.  Our strategy is to build networking
+into the operatin system.  Some of the services will not be in the same box 
+but they will have been designed, evangelized, implemented and tested as
+part of each system release.  What this means is that we will define operations
+on and attributes of entities like files, users, machines, mail, printer or
+services that users or applications can have access to directly inside the 
+system software.  Although we will allow connections to different systems we
+will make ours the easiest to use by bundling some of them and making all
+of them seamless.  Architecting the extensions for these entities including
+our evolution of the file system and how we tie in with standards like Novell
+and DCE will be Jim Allchins's responsibility even though the implementation
+of several of these will be in other parts of the company (for example OS
+kernels or Mail).  We are in a race to define these extensions because
+Novells' dominance and DCE's popularity could allow them to usurp our role 
+unless we get a strong message, good tools and great implementations done
+fairly quickly.  We will embrace DCE as a weapon agaisnt Novell although
+we don't know exactly how to relate to DCE quite yet.  Our strength will
+come from Windows, including the advanced implementation based on NT.
+
+TECHNOLOGY:  Technical change is always a challenge for the current 
+companies in a field.  Even if they recognize that a change is taking place,
+they are tied to the past.  New companies will move to exploit the
+opportunity.  Our gain in applications is in no small part due to the failure
+of existing leaders to listen to what we and other people were saying about
+GUI.  Technical change can be a new hardware platform like NeXT, a new type
+of machine like Pen or Multimedia, a new software platform like Patriot
+Partners, a new category, a redefinition of a category or a much faster 
+development methodology.  Many of the changes that will take place in PCs
+can be anticipated (peformance, memory, screens, motion video), however,
+understanding when and how is still quite complex.  Other changes like
+linguistics, reasoning, voice recognition or learning are harder to anticipate.
+We will reduce our technical risk by strenthening our reltationship with the
+research community and having some projects of our own in areas of greatest
+importance (development enviroments and linguistics, for example).  Nathan
+(and Kay Nishi before him) has pointed out that the transition of consumer
+electronics to digital form will create platforms with systems software --
+whether it's a touch screen organizer or an intelligent TV.  The need to
+work closely with Sony, Philips, Matsushita, Thompson and other Japanese
+consumer electronics companies will require people in both Tokyo and Redmond
+working with both the research and product groups in these companies.  We
+should have an annual exchange of research thinking with most of these
+companies similar to what we want to do with MIT or Stanford.  We have the
+opportunity to do the best job ever in combining research with development
+in the computer field largely because no one has ever done it very well
+(although Sun and Apple are also working hard on this).  Nathan's kickoff memo
+talks about having the research group use our tools and including program
+managment inside the research team.
+
+Our proposition is that all of the exciting new features can be accomodated
+as extentions to the existing PC standard.  Others propose that start-from-
+scratch approaches are clearer and therefore better.  This is the essence
+of the debate with Go, NeXT and Patriot.  To win in this we have to get
+there early before significant development momentum builds up behind the
+incompatible approach.  The key to our Macintosh strategy was recognizing
+that the graphics and process of the PC would not allow us to catch up soon
+enought to prevent Mac from acheiving critical mass so we supported it.  Sun
+presents a particular challenge to us because they have significant
+development backing and high end features to go with their RISC performance.
+ARC is the most evolutionary way to get to RISC and it will require a lot of
+good execution by us and others for the strategy to succeed. 
+
+Our evolutionary proposition should be quite marketable to users -- combined
+with hardware neutrality the nessage is "Our software runs today's software
+on all (almost) hardware and both today's and tomorrow's software on all
+(almost) of tomorrow's hardware".
+
+Category 3
+----------
+
+This is a category of challenges we face that I don't feel are widely
+recognized.
+
+PATENTS:  If people had understood how patents would be granted when most
+of today's ideas were invented, and had taken out patents, the industry
+would be at a complete standstill today.  I feel certain that some large
+company will patent some obvious thing related to interface, object orientation,
+algorithm, application extension or other crucial technique.  If we assume this
+company has no need of any of our patents then the have a 17-year right to take
+as much of our profits as they want.  The solution to this is patent exchanges
+with large companies and patenting as much as we can.  Amazingly we havn't
+done any patent exchanges tha I am aware of.  Amazingly we havn't found a
+way to use our licensing position to avoid having our own customers cause 
+patent problems for us.  I know these aren't simply problems but they deserve
+more effort by both Legal and other groups.  For example we need to do  a
+patent exchange with HP as part of our new relationship.  In many application
+categories straighforward thinking ahead allows you to come up with
+patentable ideas.  A recent paper from the League for Programming Freedom
+(available from the Legal department) explains some problems with the
+way patents are applied to software.
+
+RIGIDITY/PRICING:  In the Autodesk memo, Walker talks about the short term
+thinking that high profitability can generate.  He cites specific examples 
+such as a very conservative approach to giving out free software or a desire
+to maintain fixed percentages for the wrong reasons.  Microsoft priced DOS
+even lower than we do today to help it get established.  I wonder if we would
+be as aggressive today.  This is not a simplistic advocacy for just lowering
+our prices -- our prices in the US are about where they should be.  However
+the price of success is that people fail to allow the kind of investments
+that will lead to incredible profits in the future.  For example we have 
+gotten away without funding any internal or external research.  Nathan is 
+working with me to put together a lan that will end up costing $10M
+per year about two years from now.  I have no plan to reduce our spending
+in some other category by $10M.  Microsoft is good at investing in new 
+subsidaries and even at investing in new products (database, mail, BBU,
+networking).  Most of our rigidity comes when we have a very profitable 
+product and when the market changes.  In these circumstances we should
+spend more or charge less, but our systems locks us into staying the same and
+losing share.
+
+My largest concern about price comes from Borland.  Organizations smaller than
+Borland will not have enough presence or credibility to use low price against
+us broadly  I think 90% of the significant competition we will face in 
+productivity applications will come from Lotus, WordPerfect, Borland, Claris
+and IBM barring technical innovations by small companies.  It is amazing how
+similar the applications strategies of Microsoft, Lotus, Borland and Claris
+are.  Philippe has a much lower cost structure than Lotus, IBM or Microsoft,
+so he can afford to do things we would consider wild.  For example Borland
+is considering not offering their Windows word processor separately but
+integrating it with Quattro for free -- the technical opportunity and value
+would be very strong.  This is very different than Lotus temporarily offering
+Ami for free.  Oly immense loyalty to a product at the end user level prevents
+corporations from using their buying power to force a cheap site license.  
+When the US Goverment DOD moves software procurement to a separate contract, 
+the price per user of software will end up around 0.  Why shouldn't some small
+organization price their product at say $1M for the entire US Government for
+all time?  We would if we were small and hungry.  Fortunately most organizations
+don't force cheap software on their end users.
+
+Another price concern that I have is that companies will eventually equip
+all the employees that need software with a full complement of packages,
+and our only revenue opportunity will be upgrades or ephermeral information.
+although this problem is over five years away, I think it is important to
+keep in mind.
+
+Summary
+-------
+
+Readers of this memo may feel that I have give applications too little air
+time.  I don't mean to downplay their importance at all.  Applications have
+been the primary engine of growth (especially in International) over the past
+two years.  Although Windows' success is necessary for Microsoft applications
+to succeed is not sufficient.  Other ISVs will be there early with good
+applications fully exploiting the environment (Notes, Ami, Designer), so 
+exploitation is only half of the job.  The need to "reinvent" categories and 
+the way they relate to each other is crucial for all of our applications. I
+will be writing up some of my ideas for big changes in applications.
+
+The simplest summary is to repeat our strategy in its simplest form -- 
+"Windows -- one evolving architecture, a couple of implementations and a
+immense number of great applications from Microsoft and others."  The
+evolution refers to the additon of pen, audio, multimedia, networking,
+macro language, 32-bit, advanced graphics, setup, a better file system,
+and a lot of usability.  The "a couple of implementations" is a somewhat
+humorous reference to the fact that our NT based versions and our non-NT
+versions have a different code in a number of areas to allow us to have both
+the advanced features we want and be fairly small on the Intel architecture.
+Eventually we will get back t one implementation but it will take four years
+before we use NT for everything.  I would not use this simple summary for
+outside consumption -- there it would be more like "Windows -- one evolving
+architecture with hardware freedom for all users and freedom to chose amongst
+the largest set of applications."
+
+Although the challenges should make us quite humble about the years to come
+I think our position (best sofware company setting many desktop 
+"standards") is an enviable one and our people are the best.  The opportunity
+for us if we execute this strategy is incredible.
+
+
+
+[*End*]

@@ -1,0 +1,1388 @@
+*******************************************************************************
+[Title:Madame Delicieuse]
+[Author:George Washington Cable]
+[Scanned:*]
+[Checked:*]
+[ID:*]
+[Revision:*]
+[Source:*]
+[Copyright:Public Domain - Copyright Expired]
+[Category:*]
+[Abstract:*]
+*******************************************************************************
+
+
+
+
+
+  This electronic edition of `Old Creole Days' is based on the
+two-volume edition published by Charles Scribner's Sons in 1883, and
+printed by Franklin Press: Rand, Avery, and Company, Boston.
+
+  Two copyright statements appear in the books -- they claim copyright
+for Charles Scribner's Sons from 1879 and 1883.
+
+
+Changes to the text
+===================
+
+  Page-breaks have been removed, along with page numbers and column
+titles.
+
+  End-of-line hyphenations have been removed, and the de-hyphenated
+word has been brought up to the first of the two lines. The text
+itself has been the main guide for keeping or removing hyphens.
+
+  The following changes have been made to the text:
+
+Madame D<e'>licieuse:
+p. ??, l. ??: as, flirting in||humming-bird fashion
+
+	Flirting? So printed. But "flitting" might be intended?
+
+
+Markup Conventions:
+==================
+
+        First line in each paragraph is indented two spaces.
+
+_ _	placed around italicized text
+
+= =	placed around extra emphasized text - small caps
+	in the printed edition
+
+<a'>	a acute
+<a`>	a grave
+<a^>	a circumflex
+<ae>	ae ligature
+<c,>	c cedilla
+<e'>	e acute
+<e`>	e grave
+<e^>	e circumflex
+<e:>	e dieresis
+<n~>	n with tilde
+<o^>	o circumflex
+<o:>	o dieresis
+<u^>	u circumflex
+
+<*>	indicates a major ellipsis in the text, usually shown by an
+	asterisk or an empty line. Don't confuse this with
+	the footnote callout.
+
+
+Footnotes
+
+  Footnotes in the text were placed at the foot of the page; in this
+edition they have been placed immediately after the line in which they
+are referenced. The footnote callout is always an asterisk,* and the
+text of the footnote has been
+
+*    Like this
+
+placed, slightly indented, between two empty lines, with an asterisk
+in the left margin as illustrated above.  If the footnote comes at the
+end of a paragraph, the first line of the following paragraph is
+indented two spaces, as usual.
+
+
+
+  The transcription and proofreading was done by Anders Thulin,
+Rydsvagen 288, S-582 50 Linkoping, Sweden.  Email address:
+ath@linkoping.trab.se
+
+
+
+
+
+             MADAME DELICIEUSE.
+
+
+
+
+  Just adjoining the old Caf<e'> de Po<e'>sie on the corner,
+stood the little one-story, yellow-washed tenement of
+Dr. Mossy, with its two glass doors protected by batten
+shutters, and its low, weed-grown tile roof sloping
+out over the sidewalk. You were very likely to find
+the Doctor in, for he was a great student and rather
+negligent of his business---as business. He was a
+small, sedate, Creole gentleman of thirty or more, with
+a young-old face and manner that provoked instant
+admiration. He would receive you---be you who you
+may---in a mild, candid manner, looking into your
+face with his deep blue eyes, and re-assuring you with
+a modest, amiable smile, very sweet and rare on a
+man's mouth.
+
+  To be frank, the Doctor's little establishment was
+dusty and disorderly---very. It was curious to see
+the jars, and jars, and jars. In them were serpents
+and hideous fishes and precious specimens of many
+sorts. There were stuffed birds on broken perches;
+and dried lizards, and eels, and little alligators, and
+old skulls with their crowns sawed off, and ten thousand
+odd scraps of writing-paper strewn with crumbs
+of lonely lunches, and interspersed with long-lost spatulas
+and rust-eaten lancets.
+
+  All New Orleans, at least all Creole New Orleans,
+knew, and yet did not know, the dear little Doctor. 
+So gentle, so kind, so skilful, so patient, so lenient;
+so careless of the rich and so attentive to the poor; a
+man, all in all, such as, should you once love him, you
+would love him forever. So very learned, too, but
+with apparently no idea of how to _show himself_ to his
+social profit,---two features much more smiled at than
+respected, not to say admired, by a people remote
+from the seats of learning, and spending most of their
+esteem upon animal heroisms and exterior display.
+
+  ``Alas!'' said his wealthy acquaintances, ``what a
+pity; when he might as well be rich.''
+
+  ``Yes, his father has plenty.''
+
+  ``Certainly, and gives it freely. But intends his
+son shall see none of it.''
+
+  ``His son? You dare not so much as mention
+him.''
+
+  ``Well, well, how strange! But they can never
+agree---not even upon their name. Is not that droll?
+---a man named General Villivicencio, and his son,
+Dr. Mossy!''
+
+  ``Oh, that is nothing; it is only that the Doctor
+drops the _de Villivicencio_.''
+
+  ``Drops the _de Villivicencio?_ but I think the _de
+Villivicencio_ drops him, ho, ho, ho,---_diable_!''
+
+  Next to the residence of good Dr. Mossy towered
+the narrow, red-brick-front mansion of young Madame
+D<e'>licieuse, firm friend at once and always of those two
+antipodes, General Villivicencio and Dr. Mossy. Its
+dark, covered carriage-way was ever rumbling, and,
+with nightfall, its drawing-rooms always sent forth a
+luxurious light from the lace-curtained windows of the
+second-story balconies.
+
+  It was one of the sights of the Rue Royale to see
+by night its tall, narrow outline reaching high up toward
+the stars, with all its windows aglow.
+
+  The Madame had had some tastes of human experience;
+had been betrothed at sixteen (to a man she
+did not love, ``being at that time a fool,'' as she
+said); one summer day at noon had been a bride, and
+at sundown---a widow. Accidental discharge of the
+tipsy bridegroom's own pistol. Pass it by! It left
+but one lasting effect on her, a special detestation of
+quarrels and weapons.
+
+  The little maidens whom poor parentage has doomed
+to sit upon street door-sills and nurse their infant
+brothers have a game of ``choosing'' the beautiful
+ladies who sweep by along the pavement; but in Rue
+Royale there was no choosing; every little damsel
+must own Madame D<e'>licieuse or nobody, and as that
+richly adorned and regal favorite of old General Villivicencio
+came along they would lift their big, bold
+eyes away up to her face and pour forth their admiration
+in a universal---``Ah-h-h-h!''
+
+  But, mark you, she was good Madame D<e'>licieuse as
+well as fair Madame D<e'>licieuse: her principles, however,
+not constructed in the austere Anglo-Saxon style,
+exactly (what need, with the lattice of the Confessional
+not a stone's-throw off?). Her kind offices and
+beneficent schemes were almost as famous as General
+Villivicencio's splendid alms; if she could at times do
+what the infantile Washington said he could not, why,
+no doubt she and her friends generally looked upon it
+as a mere question of enterprise.
+
+  She had charms, too, of intellect---albeit not such
+a sinner against time and place as to be an ``educated
+woman''---charms that, even in a plainer person,
+would have brought down the half of New Orleans
+upon one knee, with both hands on the left side. She
+had the whole city at her feet, and, with the fine tact
+which was the perfection of her character, kept it there
+contented. Madame was, in short, one of the kind that
+gracefully wrest from society the prerogative of doing
+as they please, and had gone even to such extravagant
+lengths as driving out in the _Am<e'>ricain_ faubourg,
+learning the English tongue, talking national politics,
+and similar freaks whereby she provoked the unbounded
+worship of her less audacious lady friends. 
+In the centre of the cluster of Creole beauties which
+everywhere gathered about her, and, most of all, in
+those incomparable companies which assembled in her
+own splendid drawing-rooms, she was always queen
+lily. _Her_ house, _her_ drawing-rooms, etc. ; for the
+little brown aunt who lived with her was a mere piece
+of curious furniture.
+
+  There was this notable charm about Madame D<e'>licieuse,
+she improved by comparison. She never looked
+so grand as when, hanging on General Villivicencio's
+arm at some gorgeous ball, these two bore down on
+you like a royal barge lashed to a ship-of-the-line.
+She never looked so like her sweet name, as when she
+seated her prettiest lady adorers close around her, and
+got them all a-laughing.
+
+  Of the two balconies which overhung the _banquette_
+on the front of the D<e'>licieuse house, one was a small
+affair, and the other a deeper and broader one, from
+which Madame and her ladies were wont upon gala
+days to wave handkerchiefs and cast flowers to the
+friends in the processions. There they gathered one
+Eighth of January morning to see the military display. 
+It was a bright blue day, and the group that quite
+filled the balcony had laid wrappings aside, as all
+flower-buds are apt to do on such Creole January days,
+and shone resplendent in spring attire.
+
+  The sight-seers passing below looked up by hundreds
+and smiled at the ladies' eager twitter, as, flirting in
+humming-bird fashion from one subject to another,
+they laughed away the half-hours waiting for the
+pageant. By and by they fell a-listening, for Madame
+D<e'>licieuse had begun a narrative concerning Dr.
+Mossy. She sat somewhat above her listeners, her
+elbow on the arm of her chair, and her plump white
+hand waving now and then in graceful gesture, they
+silently attending with eyes full of laughter and lips
+starting apart.
+
+  ``_Vous savez_,'' she said (they conversed in French
+of course), ``you know it is now long that Dr. Mossy
+and his father have been in disaccord. Indeed, when
+have they not differed? For, when Mossy was but a
+little boy, his father thought it hard that he was not
+a rowdy. He switched him once because he would not
+play with his toy gun and drum. He was not so high
+when his father wished to send him to Paris to enter
+the French army; but he would not go. We used to
+play often together on the _banquette_---for I am not
+so very many years younger than he, no indeed---and,
+if I wanted some fun, I had only to pull his hair and
+run into the house; he would cry, and monsieur papa
+would come out with his hand spread open and''---
+
+  Madame gave her hand a malicious little sweep, and
+joined heartily in the laugh which followed.
+
+  ``That was when they lived over the way. But
+wait! you shall see; I have something. This evening
+the General''---
+
+  The houses of Rue Royale gave a start and rattled
+their windows. In the long, irregular line of balconies
+the beauty of the city rose up. Then the houses
+jumped again and the windows rattled; Madame steps
+inside the window and gives a message which the
+housemaid smiles at in receiving. As she turns the
+houses shake again, and now again; and now there
+comes a distant strain of trumpets, and by and by
+the drums and bayonets and clattering hoofs, and
+plumes and dancing banners; far down the long street
+stretch out the shining ranks of gallant men, and the
+fluttering, over-leaning swarms of ladies shower down
+their sweet favors and wave their countless welcomes.
+
+  In the front, towering above his captains, rides General
+Villivicencio, veteran of 1814-15, and, with the
+gracious pomp of the old-time gentleman, lifts his
+cocked hat, and bows, and bows.
+
+  Madame D<e'>'licieuse's balcony was  a  perfect  maze  of
+waving kerchiefs. The General looked up for the
+woman of all women; she was not there. But he remembered
+the other balcony, the smaller one, and
+cast his glance onward to it. There he saw Madame
+and one other person only. A small blue-eyed, broad-browed,
+scholarly-looking man whom the arch lady had
+lured from his pen by means of a mock professional
+summons, and who now stood beside her, a smile of
+pleasure playing on his lips and about his eyes.
+
+  ``_Vite_!'' said Madame, as the father's eyes met the
+son's. Dr. Mossy lifted his arm and cast a bouquet
+of roses. A girl in the crowd bounded forward,
+caught it in the air, and, blushing, handed it to the
+plumed giant. He bowed low, first to the girl, then to
+the balcony above; and then, with a responsive smile,
+tossed up two splendid kisses, one to Madame, and
+one, it seemed---
+
+  ``For what was that cheer?''
+
+  ``Why, did you not see? General Villivicencio cast
+a kiss to his son.''
+
+			<*>
+
+  The staff of General Villivicencio were a faithful few
+who had not bowed the knee to any abomination of the
+_Am<e'>ricains_, nor sworn deceitfully to any species of
+compromise; their beloved city was presently to pass
+into the throes of an election, and this band, heroically
+unconscious of their feebleness, putting their trust in
+``re-actions'' and like delusions, resolved to make one
+more stand for the traditions of their fathers. It was
+concerning this that Madame D<e'>licieuse was incidentally
+about to speak when interrupted by the boom of
+cannon; they had promised to meet at her house that
+evening.
+
+  They met. With very little discussion or delay (for
+their minds were made up beforehand), it was decided
+to announce in the French-English newspaper that, at
+a meeting of leading citizens, it had been thought
+consonant with the public interest to place before the
+people the name of General Hercule Mossy de Villivicencio.
+No explanation was considered necessary. 
+All had been done in strict accordance with time-honored
+customs, and if any one did not know it it was
+his own fault. No eulogium was to follow, no editorial
+indorsement. The two announcements were destined
+to stand next morning, one on the English side
+and one on the French, in severe simplicity, to be
+greeted with profound gratification by a few old gentlemen
+in blue cottonade, and by roars of laughter
+from a rampant majority.
+
+  As the junto were departing, sparkling Madame
+D<e'>licieuse detained the General at the head of the
+stairs that descended into the tiled carriage-way, to
+wish she was a man, that she might vote for him.
+
+  ``But, General,'' she said, ``had I not a beautiful
+bouquet of ladies on my balcony this morning?''
+
+  The General replied, with majestic gallantry, that
+``it was as magnificent as could be expected with the
+central rose wanting.'' And so Madame was disappointed,
+for she was trying to force the General to
+mention his son. ``I will bear this no longer; he
+shall not rest,'' she had said to her little aunt, ``until
+he has either kissed his son or quarrelled with him.''
+To which the aunt had answered that, ``_co<u^>te que
+co<u^>te_, she need not cry about it;'' nor did she. 
+Though the General's compliment had foiled her
+thrust, she answered gayly to the effect that enough
+was enough; ``but, ah! General,'' dropping her voice
+to an undertone, ``if you had heard what some of
+those rosebuds said of you!''
+
+  The old General pricked up like a country beau. 
+Madame laughed to herself, ``Monsieur Peacock, I
+have thee;'' but aloud she said gravely:
+
+  ``Come into the drawing-room, if you please, and
+seat yourself. You must be greatly fatigued.''
+
+  The friends who waited below overheard the invitation.
+
+  ``_Au revoir, G<e'>n<e'>ral_,'' said they.
+
+  ``_Au revoir, Messieurs_,'' he answered, and followed
+the lady.
+
+  ``General,'' said she, as if her heart were overflowing,
+``you have been spoken against. Please sit down.''
+
+  ``Is that true, Madame?''
+
+  ``Yes, General.''
+
+  She sank into a luxurious chair.
+
+  ``A lady said to-day---but you will be angry with
+me, General.''
+
+  ``With you, Madame? That is not possible.''
+
+  ``I do not love to make revelations, General; but
+when a noble friend is evil spoken of''---she leaned
+her brow upon her thumb and forefinger, and looked
+pensively at her slipper's toe peeping out at the edge
+of her skirt on the rich carpet---``one's heart gets very
+big.''
+
+  ``Madame, you are  an  angel! But  what  said  she,
+Madame?''
+
+  ``Well, General, I have to tell you the whole truth,
+if you will not be angry. We were all speaking at
+once of handsome men. She said to me: `Well,
+Madame D<e'>licieuse, you may say what you will of
+General Villivicencio, and I suppose it is true; but
+everybody knows'---pardon me, General, but just so
+she said---`all the world knows he treats his son very
+badly.' ''
+
+  ``It is not true,'' said the General.
+
+  ``If I wasn't angry!'' said Madame, making a
+pretty fist. `How can that be?' I said. `Well,' she
+said, `mamma says he has been angry with his son for
+fifteen years.' `But what did his son do?' I said. 
+`Nothing,' said she. `_Ma foi_,' I said, `me, I too
+would be angry if my son had done nothing for fifteen
+years'---ho, ho, ho!''
+
+  ``It is not true,'' said the General.
+
+  The old General cleared  his  throat, and  smiled  as
+by compulsion.
+
+  ``You know, General,'' said Madame, looking distressed,
+``it was nothing to joke about, but I had to
+say so, because I did not know what your son had
+done, nor did I wish to hear any thing against one
+who has the honor to call you his father.''
+
+  She paused a moment to let the flattery take effect,
+and then proceeded:
+
+  ``But then another lady said to me; she said, ` For
+shame, Clarisse, to laugh at good Dr. Mossy; nobody
+---neither General Villivicencio, neither any other, has
+a right to be angry against that noble, gentle, kind,
+brave' ''---
+
+  ``Brave!'' said the General, with a touch of irony.
+
+  ``So she said,'' answered Madame D<e'>licieuse, ``and
+I asked her, `how brave?' `Brave?' she said, `why,
+braver than _any soldier_, in tending the smallpox, the
+cholera, the fevers, and all those horrible things. Me,
+I saw his father once run from a snake; I think _he_
+wouldn't fight the smallpox---my faith!' she said,
+`they say that Dr. Mossy does all that and never
+wears a scapula!---and does it nine hundred and
+ninety-nine times in a thousand for nothing! _Is_ that
+brave, Madame D<e'>licieuse, or is it not?'---And, General,
+---what could I say?''
+
+  Madame dropped her palms on either side of her
+spreading robes and waited pleadingly for an answer. 
+There was no sound but the drumming of the General's
+fingers on his sword-hilt. Madame resumed:
+
+  ``I said, `I do not deny that Mossy is a noble gentleman;'
+---I had to say that, had I not, General?''
+
+  ``Certainly, Madame,'' said the General, ``my son
+is a gentleman, yes.''
+
+  `` `But,' I said, `he should not make Monsieur, his
+father, angry.' ''
+
+  ``True,'' said the General, eagerly.
+
+  ``But that lady said: `Monsieur, his father, makes
+himself angry,' she said. `Do you know, Madame,
+why his father is angry so long?' Another lady says,
+`I know!' `For what?' said I. `Because he refused
+to become a soldier; mamma told me that.' `It cannot
+be!' I said.''
+
+  The General flushed. Madame saw it, but relentlessly
+continued:
+
+  `` `_Mais oui_,' said that lady. `What!' I said,
+`think you General Villivicencio will not rather be the
+very man most certain to respect a son who has the
+courage to be his own master? Oh, what does he
+want with a poor fool of a son who will do only as he
+says? You think he will love him less for healing
+instead of killing? Mesdemoiselles, you do not know
+that noble soldier!' ''
+
+  The noble soldier glowed, and bowed his acknowledgments
+in a dubious, half remonstrative way, as if
+Madame might be producing material for her next
+confession, as, indeed, she diligently was doing; but
+she went straight on once more, as a surgeon would.
+
+  ``But that other lady said : `No Madame, no, ladies
+but I am going to tell you why Monsieur, the General,
+is angry with his son.' ` Very well, why?'- `Why?
+It is just---because---he is---a little man!' ''
+
+  General Villivicencio stood straight up.
+
+  ``Ah! mon ami,'' cried the lady, rising excitedly,
+``I have wounded you and made you angry, with my
+silly revelations. Pardon me, my friend. Those were
+foolish girls, and, anyhow, they admired you. They
+said you looked glorious---grand---at the head of the
+procession.''
+
+  Now, all at once, the General felt the tremendous
+fatigues of the day; there was a wild, swimming,
+whirling sensation in his head that forced him to let
+his eyelids sink down; yet, just there, in the midst
+of his painful bewilderment, he realized with ecstatic
+complacency that the most martial-looking man in
+Louisiana was standing in his spurs with the hand of
+Louisiana's queenliest woman laid tenderly on his
+arm.
+
+  ``I am a wretched tattler!'' said she.
+
+  ``Ah! no, Madame, you are my dearest friend, yes.''
+
+  ``Well, anyhow, I called them fools. `Ah! innocent
+creatures,' I said, `think you a man of his sense
+and goodness, giving his thousands to the sick and
+afflicted, will cease to love his only son because he is
+not big like a horse or quarrelsome like a dog? No,
+ladies, there is a great reason which none of you
+know.' ` Well, well,' they cried, `tell it; he has need
+of a very good reason; tell it now.' `My ladies,' I
+said, `I must not'---for, General, for all the world
+I knew not a reason why you should be angry against
+your son; you know, General, you have never told
+me.''
+
+  The beauty again laid her hand on his arm and
+gazed, with round-eyed simplicity, into his sombre
+countenance. For an instant her witchery had almost
+conquered.
+
+  ``Nay, Madame, some day I shall tell you; I have
+more than one burden _here_. But let me ask you to be
+seated, for I have a question, also, for you, which I
+have longed to ask. It lies heavily upon my heart; I
+must ask it now. A matter of so great importance''---
+Madame's little brown aunt gave a faint cough from
+a dim corner of the room.
+
+  `` 'Tis a beautiful night,'' she remarked, and stepped
+out on the balcony.
+
+  Then the General asked his question. It was a very
+long question, or, maybe, repeated twice or thrice; for
+it was fully ten minutes before he moved out of the
+room, saying good-evening.
+
+  Ah! old General Villivicencio. The most martial-looking
+man in Louisiana! But what would the people,
+the people who cheered in the morning, have said,
+to see the fair Queen D<e'>licieuse at the top of the stair,
+sweetly bowing you down into the starlight,---humbled,
+crestfallen, rejected!
+
+			<*>
+
+  The campaign opened. The Villivicencio ticket
+was read in French and English with the very different
+sentiments already noted. In the Exchange,
+about the courts, among the ``banks,'' there was
+lively talking concerning its intrinsic excellence and
+extrinsic chances. The young gentlemen who stood
+about the doors of the so-called ``coffee-houses''
+talked with a frantic energy alarming to any stranger,
+and just when you would have expected to see them
+jump and bite large mouthfuls out of each other's
+face, they would turn and enter the door, talking on
+in the same furious manner, and, walking up to the
+bar, click their glasses to the success of the Villivicencio
+ticket. Sundry swarthy and wrinkled remnants
+of an earlier generation were still more enthusiastic. 
+There was to be a happy renaissance; a purging out
+of Yankee ideas; a blessed home-coming of those good
+old Bourbon morals and manners which Yankee notions
+had expatriated. In the cheerfulness of their
+anticipations they even went the length of throwing
+their feet high in air, thus indicating how the Villivicencio
+ticket was going to give ``doze Am<e'>ricains''
+the kick under the nose.
+
+  In the three or four weeks which followed, the
+General gathered a surfeit of adulation, notwithstanding
+which he was constantly and with pain imagining
+a confused chatter of ladies, and when he shut his
+eyes with annoyance, there was Madame D<e'>licieuse
+standing, and saying, ``I knew not a reason why you
+should be angry against your son,'' gazing in his face
+with hardened simplicity, and then---that last scene
+on the stairs wherein he seemed still to be descending,
+down, down.
+
+  Madame herself was keeping good her resolution.
+
+  ``Now or never,'' she said, ``a  reconciliation  or  a
+quarrel.''
+
+  When the General, to keep up appearances, called
+again, she so moved him with an account of certain
+kindly speeches of her own invention, which she imputed
+to Dr. Mossy, that he promised to call and see
+his son; ``perhaps;'' ``pretty soon;'' ``probably.''
+
+  Dr. Mossy, sitting one February morning among his
+specimens and books of reference, finishing a thrilling
+chapter on the cuticle, too absorbed to hear a door
+open, suddenly realized that something was in his
+light, and, looking up, beheld General Villivicencio
+standing over him. Breathing a pleased sigh, he put
+down his pen, and, rising on tiptoe, laid his hand upon
+his father's shoulder, and lifting his lips like a little
+wife, kissed him.
+
+  ``Be seated, papa,'' he said, offering his own chair,
+and perching on the desk,
+
+  The General took it, and, clearing his throat, gazed
+around upon the jars and jars with their little Adams
+and Eves in zo<o:>logical gardens.
+
+  ``Is all going well, papa?'' finally asked Dr. Mossy.
+
+  ``Yes.''
+
+  Then there was a long pause.
+
+  `` 'Tis a beautiful day,'' said the son.
+
+  ``Very beautiful,'' rejoined the father.
+
+  ``I thought there would have been a rain, but it has
+cleared off,'' said the son.
+
+  ``Yes,'' responded the father, and drummed on the
+desk.
+
+  ``Does it appear to be turning cool?'' asked the
+son.
+
+  ``No; it does not appear to be turning cool at all,''
+was the answer.
+
+  ``H'm 'm!'' said Dr. Mossy.
+
+  ``Hem!'' said General Villivicencio.
+
+  Dr. Mossy, not realizing his own action, stole a
+glance at his manuscript.
+
+  ``I am interrupting you,'' said the General, quickly,
+and rose.
+
+  ``No, no! pardon me; be seated; it gives me great
+pleasure to---I did not know what I was doing. It is
+the work with which I fill my leisure moments.''
+
+  So the General settled down again, and father and
+son sat very close to each other---in a bodily sense ;
+spiritually they were many miles apart. The General's
+finger-ends, softly tapping the desk, had the sound of
+far-away drums.
+
+  ``The city---it is healthy?'' asked the General.
+
+  ``Did you ask me if''---said the little Doctor, starting
+and looking up.
+
+  ``The city---it has not much sickness at present?''
+repeated the father.
+
+  ``No, yes---not much,'' said Mossy, and, with
+latter unconsciousness, leaned down upon his elbow
+and supplied an omitted word to the manuscript.
+
+  The General was on his feet as if by the touch of a
+spring.
+
+  ``I must go!''
+
+  ``Ah! no, papa,'' said the son.
+
+  ``But, yes, I must.''
+
+  ``But wait, papa, I had just now something to speak
+of''---
+
+  ``Well?'' said the General, standing with his hand
+on the door, and with rather a dark countenance.
+
+  Dr. Mossy touched his fingers to his forehead, trying
+to remember.
+
+  ``I fear I have---ah! I rejoice to see your name
+before the public, dear papa, and at the head of the
+ticket.''
+
+  The General's displeasure sank down like an eagle's
+feathers. He smiled thankfully, and bowed.
+
+  ``My friends compelled me,'' he said.
+
+  ``They think you will be elected?''
+
+  ``They will not doubt it. But what think you, my
+son?''
+
+  Now the son had a conviction which it would have
+been madness to express, so he only said:
+
+  ``They could not elect one more faithful.''
+
+  The General bowed solemnly.
+
+  ``Perhaps the  people  will  think  so;  my  friends  believe
+they will.''
+
+  ``Your friends who have used your name should
+help you as much as they can, papa,'' said the Doctor.
+``Myself, I should like to assist you, papa, if I could.''
+
+  ``A-bah!'' said the pleased father, incredulously.
+
+  ``But, yes,'' said the son.
+
+  A thrill of delight filled the General's frame. _This_
+was like a son.
+
+  ``Thank you, my son! I thank you much. Ah,
+Mossy, my dear boy, you make me happy!''
+
+  ``But,'' added Mossy, realizing with a tremor how
+far he had gone, ``I see not how it is possible.''
+
+  The General's chin dropped.
+
+  ``Not being a public man,'' continued the Doctor;
+``unless, indeed, my pen---you might enlist my pen.''
+
+  He paused with a smile of bashful inquiry. The
+General stood aghast for a moment, and then caught
+the idea.
+
+  ``Certainly! cer-tain-ly! ha, ha, ha! backing
+out of the door---``certainly! Ah! Mossy, you are
+right, to be sure; to make a complete world we must
+have swords _and_ pens. Well, my son, `_au revoir_;'
+no, I cannot stay---I will return. I hasten to tell my
+friends that the pen of Dr. Mossy is on our side!
+Adieu, dear son.''
+
+  Standing outside on the _banquette_ he bowed---not
+to Dr. Mossy, but to the balcony of the big red-brick
+front---a most sunshiny smile, and departed.
+
+  The very next morning, as if fate had ordered it,
+the Villivicencio ticket was attacked---ambushed, as
+it were, from behind the Am<e'>ricain newspaper. The
+onslaught was---at least General Villivicencio said it
+was---absolutely ruffianly. Never had all the lofty
+courtesies and formalities of chivalric contest been so
+completely ignored. Poisoned balls---at least personal
+epithets---were used. The General himself was
+called ``antiquated!'' The friends who had nominated
+him, they were positively sneered at; dubbed
+``fossils,'' ``old ladies,'' and their caucus termed
+``irresponsible''---thunder and lightning! gentlemen
+of honor to be termed ``not responsible!'' It was
+asserted that the nomination was made secretly, in a
+private house, by two or three unauthorized harum-scarums
+(that touched the very bone) who had with
+more caution than propriety withheld their names. 
+The article was headed, ``The Crayfish-eaters' Ticket.''
+It continued further to say that, had not the publication
+of this ticket been regarded as a dull hoax, it
+would not have been suffered to pass for two weeks
+unchallenged, and that it was now high time the universal
+wish should be realized in its withdrawal.
+
+  Among the earliest readers of this production was
+the young Madame. She first enjoyed a quiet gleeful
+smile over it, and then called:
+
+  ``Ninide, here, take this down to Dr. Mossy---
+stop.'' She marked the communication heavily with
+her gold pencil. ``No answer; he need not return it.''
+
+  About the same hour, and in a neighboring street,
+one of the ``not responsibles'' knocked on the Villivicencio
+castle gate. The General invited him into
+his bedroom. With a short and strictly profane harangue
+the visitor produced the offensive newspaper,
+and was about to begin reading, when one of those
+loud nasal blasts, so peculiar to the Gaul, resounded
+at the gate, and another ``not responsible'' entered,
+more excited, if possible, than the first. Several
+minutes were spent in exchanging fierce sentiments
+and slapping the palm of the left hand rapidly with
+the back of the right. Presently there was a pause
+for breath.
+
+  ``Alphonse, proceed to read,'' said the General,
+sitting up in bed.
+
+  ``De Crayfish-eaters' Ticket''---began Alphonse;
+but a third rapping at the gate interrupted him, and a
+third ``irresponsible'' re-enforced their number, talking
+loudly and wildly to the waiting-man as he came up
+the hall.
+
+  Finally, Alphonse read the article. Little by little
+the incensed gentlemen gave it a hearing, now two
+words and now three, interrupting it to rip out long,
+rasping maledictions, and wag their forefingers at each
+other as they strode ferociously about the apartment.
+
+  As Alphonse reached the close, and dashed the
+paper to the floor, the whole quartet, in terrific unison,
+cried for the blood of the editor.
+
+  But hereupon the General spoke with authority.
+
+  ``No, Messieurs,'' he said, buttoning  his  dressinggown,
+savagely, ``you shall not fight him. I forbid it---
+you shall not!''
+
+  ``But,'' cried the three at once, ``one of us must
+fight, and you---you cannot; if _you_ fight our cause is
+lost! The candidate must not fight.''
+
+  ``Hah-h! Messieurs,'' cried the hero, beating his
+breast and lifting his eyes, ``_grace au ciel_. I have a
+son. Yes, my beloved friends, a son who shall call
+the villain out and make him pay for his impudence
+with blood, or eat his words in to-morrow morning's
+paper. Heaven be thanked that gave me a son for
+this occasion! I shall see him at once---as soon as
+I can dress.''
+
+  ``We will go with you.''
+
+  ``No, gentlemen, let me see my son alone. I can
+meet you at Maspero's in two hours. Adieu, my dear
+friends.''
+
+  He was resolved.
+
+  ``_Au revoir_,'' said the dear friends.
+
+  Shortly after, cane in hand, General Villivicencio
+moved with an ireful stride up the _banquette_ of Rue
+Royale. Just as he passed the red-brick front one of
+the batten shutters opened the faintest bit, and a certain
+pair of lovely eyes looked after him, without any
+of that round simplicity which we have before discovered
+in them. As he half turned to knock at his son's
+door he glanced at this very shutter, but it was as
+tightly closed as though the house were an enchanted
+palace.
+
+  Dr. Mossy's door, on the contrary, swung ajar when
+he knocked, and the General entered.
+
+  ``Well, my son, have you seen that newspaper?
+No, I think not. I _see_ you have not, since your cheeks
+are not red with shame and anger.''
+
+  Dr. Mossy looked up with astonishment from the
+desk where he sat writing.
+
+  ``What is that, papa?''
+
+  ``My faith! Mossy, is it possible you have not
+heard of the attack upon me, which has surprised and
+exasperated the city this morning?''
+
+  ``No,'' said Dr. Mossy, with still greater surprise,
+and laying his hand on the arm of his chair.
+
+  His father put on a dying look. ``My soul!'' At
+that moment his glance fell upon the paper which had
+been sent in by Madame Delicieuse. ``But, Mossy,
+my son,'' he screamed, ``_there_ it is!'' striking it rapidly
+with one finger---``there! there! there! read it!
+It calls me `not responsible!' `not responsible' it
+calls me! Read! read!''
+
+  ``But, papa,'' said the quiet little Doctor, rising,
+and accepting the crumpled paper thrust at him, ``I
+have read this. If this is it, well, then, already I am
+preparing to respond to it.''
+
+  The General seized him violently, and, spreading a
+suffocating kiss on his face, sealed it with an affectionate
+oath.
+
+  ``Ah, Mossy, my boy, you are glorious! You had
+begun already to write! You are glorious! Read to
+me what you have written, my son.''
+
+  The Doctor took up a bit of manuscript, and resuming
+ his chair, began:
+
+  ``Messrs. Editors: On your journal of this morning''---
+
+  ``Eh! how! you have not written it in English, is
+it, son?''
+
+  ``But, yes, papa.''
+
+  `` 'Tis a vile tongue,'' said the General; ``but, if  it
+is necessary---proceed.''
+
+    ``Messrs. Editors: On your journal of this morning is
+  published an editorial article upon the Villivicencio ticket,
+  which is plentiful and abundant with mistakes. Who is the
+  author or writer of the above said editorial article your correspondent
+  does at present ignore, but doubts not he is one who,
+  hasty to form an opinion, will yet, however, make his assent to
+  the correction of some errors and mistakes which''---
+
+  ``Bah!'' cried the General.
+
+  Dr. Mossy looked up, blushing crimson.
+
+  ``Bah!'' cried the General, still more forcibly.
+``B<e^>tise!''
+
+  ``How?'' asked the gentle son.
+
+  `` 'Tis all nonsent!'' cried the General, bursting
+into English. ``Hall you 'ave to say is: ` 'Sieur
+Editeurs! I want you s'all give de nem of de indignan'
+scoundrel who meek some lies on you' paper
+about mon p<e`>re et ses amis!''
+
+  ``Ah-h!'' said Dr. Mossy, in a tone of derision
+and anger.
+
+  His father gazed at him in mute astonishment. He
+stood beside his disorderly little desk, his small form
+drawn up, a hand thrust into his breast, and that look
+of invincibility in his eyes such as blue eyes sometimes
+surprise us with.
+
+  ``You want me to fight,'' he said.
+
+  ``My faith!'' gasped the General, loosening in all
+his joints. ``I believe---you may cut me in pieces if
+I do not believe you were going to reason it out in the
+newspaper! Fight? If I want you to fight? Upon
+my soul, I believe you do not want to fight!''
+
+  ``No,'' said Mossy.
+
+  ``My God!'' whispered the General. His heart
+seemed to break.
+
+  ``Yes,'' said the steadily gazing Doctor, his lips
+trembling as he opened them. ``Yes, your God. I
+am afraid''---
+
+  ``Afraid!'' gasped the General.
+
+  ``Yes,'' rang out the Doctor, ``afraid; afraid!
+God forbid that I should not be afraid. But I will
+tell you what I do not fear---I do not fear to call your
+affairs of honor---murder!''
+
+  ``My son!'' cried the father.
+
+  ``I retract,'' cried the son;  ``consider  it  unsaid. I
+will never reproach my father.''
+
+  ``It is well,'' said the father. ``I was wrong. It
+is my quarrel. I go to settle it myself.''
+
+  Dr. Mossy moved quickly between his father and
+the door. General Villivicencio stood before him
+utterly bowed down.
+
+  ``What will you?'' sadly demanded the old man.
+
+  ``Papa,'' said the son, with much tenderness, ``I
+cannot permit you. Fifteen years we were strangers,
+and yesterday were friends. You must not leave me
+so. I will even settle this quarrel for you. You must
+let me. I am pledged to your service.''
+
+  The peace-loving little doctor did not mean ``to
+settle,'' but ``to adjust.'' He felt in an instant that
+he was misunderstood; yet, as quiet people axe apt to
+do, though not wishing to deceive, he let the misinterpretation
+stand. In his embarrassment he did not
+know with absolute certainty what he should do himself.
+
+  The father's face---he thought of but one way to
+settle a quarrel---began instantly to brighten. ``I
+would myself do it,'' he said, apologetically, ``but my
+friends forbid it.''
+
+  ``And so do I,'' said the Doctor, ``but I will go
+myself now, and will not return until all is finished. 
+Give me the paper.''
+
+  ``My son, I do not wish to compel you.''
+
+  There was something acid in the Doctor's smile as
+he answered:
+
+  ``No; but give me the paper, if you please.''
+
+  The General handed it.
+
+  ``Papa,'' said the son, ``you must wait here for my
+return.''
+
+  ``But I have an appointment at Maspero's at''---
+
+  ``I will call and make excuse for you,'' said the
+son.
+
+  ``Well,'' consented the almost happy father, ``go,
+my son; I will stay. But if some of your sick shall
+call?''
+
+  ``Sit quiet,'' said the son. ``They will think no
+one is here.'' And the General noticed that the dust
+lay so thick on the panes that a person outside would
+have to put his face close to the glass to see within.
+
+  In the course of half an hour the Doctor had reached
+the newspaper office, thrice addressed himself to the
+wrong person, finally found the courteous editor, and
+easily convinced him that his father had been imposed
+upon ; but when Dr. Mossy went farther, and asked
+which one of the talented editorial staff had written
+the article:
+
+  ``You see, Doctor,'' said the editor---``just step
+into my private office a moment.''
+
+  They went in together. The next minute saw Dr.
+Mossy departing hurriedly from the place, while the
+editor complacently resumed his pen, assured that he
+would not return.
+
+  General Villivicencio sat and waited among the serpents
+and innocents. His spirits began to droop
+again. Revolving Mossy's words, he could not escape
+the fear that possibly, after all, his son might compromise
+the Villivicencio honor in the interests of peace. 
+Not that he preferred to put his son's life in jeopardy;
+he would not object to an adjustment, provided the
+enemy should beg for it. But if not, whom would his
+son select to perform those friendly offices indispensable
+in polite quarrels? Some half-priest, half-woman?
+Some spectacled book-worm? He suffered.
+
+  The monotony of his passive task was relieved by
+one or two callers who had the sagacity (or bad manners)
+to peer through the dirty glass, and then open
+the door, to whom, half rising from his chair, he
+answered, with a polite smile, that the Doctor was out,
+nor could he say how long he might be absent. Still
+the time dragged painfully, and he began at length to
+wonder why Mossy did not return.
+
+  There came a rap at the glass door different from all
+the raps that had forerun it---a fearless, but gentle,
+dignified, graceful rap; and the General, before he
+looked round, felt in all his veins that it came from
+the young Madame. Yes, there was her glorious outline
+thrown sidewise upon the glass. He hastened
+and threw open the door, bending low at the same
+instant, and extending his hand.
+
+  She extended hers also, but not to take his. With
+a calm dexterity that took the General's breath, she
+reached between him and the door, and closed it.
+
+  ``What is the matter?'' anxiously asked the General
+---for her face, in spite of its smile, was severe.
+
+  ``General,'' she began, ignoring his inquiry---and,
+with all her Creole bows, smiles, and insinuating
+phrases, the severity of her countenance but partially
+waned---``I came to see my physician---your son. 
+Ah! General, when I find you reconciled to your son,
+it makes me think I am in heaven. You will let me
+say so? You will not be offended with the old playmate
+of your son?''
+
+  She gave him no time to answer.
+
+  ``He is out, I think, is he not? But I am glad of
+it. It gives us occasion to rejoice together over his
+many merits. For you know, General, in all the years
+of your estrangement, Mossy had no friend like myself. 
+I am proud to tell you so now; is it not so?''
+
+  The General was so taken aback that, when he had
+thanked her in a mechanical way, he could say nothing
+else. She seemed to fall for a little while into a
+sad meditation that embarrassed him beyond measure. 
+But as he opened his mouth to speak, she resumed:
+
+  ``Nobody knew him so well as I; though I, poor
+me, I could not altogether understand him; for look
+you, General, he was---what do you think?---_a great
+man!_---nothing less.''
+
+  ``How?'' asked the General, not knowing what else
+to respond.
+
+  ``You never dreamed of that, eh?'' continued the
+lady. ``But, of course not; nobody did but me. 
+Some of those Am<e'>ricains, I suppose, knew it; but
+who would ever ask them? Here in Royal Street, in
+New Orleans, where we people know nothing and care
+nothing but for meat, drink, and pleasure, he was only
+Dr. Mossy, who gave pills. My faith! General, no
+wonder you were disappointed in your son, for you
+thought the same. Ah! yes, you did! But why did
+you not ask me, his old playmate? I knew better. I
+could have told you how your little son stood head and
+shoulders above the crowd. I could have told you
+some things too wonderful to believe. I could have
+told you that his name was known and honored in the
+scientific schools of Paris, of London, of Germany!
+Yes! I could have shown you''---she warmed as she
+proceeded---``I could have shown you letters (I
+begged them of him), written as between brother
+and brother, from the foremost men of science and
+discovery!''
+
+  She stood up, her eyes flashing with excitement.
+
+  ``But why did you never tell me?'' cried the General.
+
+  ``He never would allow me---but you---why did
+you not ask me? I will tell you; you were too proud
+to mention your son. But he had pride to match yours
+---ha!---achieving all---every thing---with an assumed
+name! `Let me tell your father,' I implored him;
+but---`let him find me out,' he said, and you never
+found him out. Ah! there he was fine. He would
+not, he said, though only for your sake, re-enter your
+affections as any thing more or less than just---your
+son. Ha!''
+
+  And so she went on. Twenty times the old General
+was astonished anew, twenty times was angry or
+alarmed enough to cry out, but twenty times she would
+not be interrupted. Once he attempted to laugh, but
+again her hand commanded silence.
+
+  ``Behold, Monsieur, all these dusty specimens, these
+revolting fragments. How have you blushed to know
+that our idle people laugh in their sleeves at these
+things! How have you blushed---and you his father!
+But why did you not ask me? I could have told you:
+`Sir, your son is not an apothecary; not one of these
+ugly things but has helped him on in the glorious path
+of discovery ; discovery, General---your son---known
+in Europe as a scientific discoverer!' Ah-h! the blind
+people say, `How is that, that General Villivicencio
+should be dissatisfied with his son? He is a good man,
+and a good doctor, only a little careless, that's all.'
+But _you_ were more blind still, for you shut your eyes
+tight like this; when, had you searched for his virtues
+as you did for his faults, you, too, might have known
+before it was too late what nobility, what beauty,
+what strength, were in the character of your poor,
+poor son!''
+
+  ``Just Heaven! Madame, you shall not speak of
+my son as of one dead and buried! But, if you have
+some bad news''---
+
+  ``Your son took your quarrel on his hands, eh?''
+
+  ``I believe so---I think''---
+
+  ``Well; I saw him an hour ago in search of your
+slanderer!''
+
+  ``He must find him!'' said the General, plucking
+up.
+
+  ``But if the search is already over,'' slowly responded
+Madame.
+
+  The father looked one instant in her face, then rose
+with an exclamation:
+
+  ``Where is my son? What has happened? Do
+you think I am a child, to be trifled with---a horse
+to be teased? Tell me of my son!''
+
+  Madame was stricken with genuine anguish.
+
+  ``Take your chair,'' she begged; ``wait; listen;
+take your chair.''
+
+  ``Never!'' cried the General; ``I am going to find
+my son---my God! Madame, you have _locked this
+door!_ What are you, that you should treat me so?
+Give me, this instant''---
+
+  ``Oh! Monsieur, I beseech you to take your chair,
+and I will tell you all. You can do nothing now. 
+Listen! suppose you should rush out and find that
+your son had played the coward at last! Sit down
+and''---
+
+  ``Ah! Madame, this is play!'' cried  the  distracted
+man.
+
+  ``But no; it is not play. Sit down; I want to ask
+you something.''
+
+  He sank down and she stood over him, anguish and
+triumph strangely mingled in her beautiful face.
+
+  ``General, tell me true; did you not force this quarrel
+into your son's hand? I know he would not choose
+to have it. Did you not do it to test his courage,
+because all these fifteen years you have made yourself
+a fool with the fear that he became a student only to
+escape being a soldier? Did you not?''
+
+  Her eyes looked him through and through.
+
+  ``And if I did?'' demanded he with faint defiance.
+
+  `` Yes! and if he has made dreadful haste and
+proved his courage?'' asked she.
+
+  ``Well, then,''---the General straightened up triumphantly
+---``then he is my son!''
+
+  He beat the desk.
+
+  ``And heir to your wealth, for example?''
+
+  ``Certainly.''
+
+  The lady bowed in solemn mockery.
+
+  ``It will make him a magnificent funeral!''
+
+  The father bounded up and stood speechless, trembling
+from head to foot. Madame looked straight in
+his eye.
+
+  ``Your son has met the writer of that article.''
+
+  ``Where?'' the old man's lips tried to ask.
+
+  ``Suddenly, unexpectedly, in a passage-way.''
+
+  ``My God! and the villain''---
+
+  ``Lives!'' cried Madame.
+
+He rushed to the door, forgetting that it was locked.
+``Give me that key!'' he cried, wrenched at the
+knob, turned away bewildered, turned again toward it,
+and again away; and at every step and turn he cried,
+
+  ``Oh! my son, my son! I have killed my son! Oh!
+Mossy, my son, my little boy! Oh! my son, my son!''
+
+  Madame buried her face in her hands and sobbed
+aloud. Then the father hushed his cries and stood for
+a moment before her.
+
+  ``Give me the key, Clarisse, let me go.''
+
+  She rose and laid her face on his shoulder.
+
+  ``What is it, Clarisse?'' asked he.
+
+  ``Your son and I were ten years betrothed.''
+
+  ``Oh, my child!''
+
+  ``Because, being disinherited, he would not be my
+husband.''
+
+  ``Alas! would to God I had known it! Oh! Mossy,
+my son.''
+
+  ``Oh! Monsieur,'' cried the lady, clasping her hands ,
+``forgive me---morn no more---your son is unharmed!
+I wrote the article---I am your recanting
+slanderer! Your son is hunting for me now. I told
+my aunt to misdirect him. I slipped by him unseen
+in the carriage-way.''
+
+  The wild old General, having already staggered back
+and rushed forward again, would have seized her in
+his arms, had not the little Doctor himself at that instant
+violently rattled the door and shook his finger at
+them playfully as he peered through the glass.
+
+  ``Behold!'' said Madame, attempting a smile:
+``open to your son; here is the key."''
+
+  She sank into a chair.
+
+  Father and son leaped into each other's arms; then
+turned to Madame:
+
+  ``Ah! thou lovely mischief-maker''---
+
+  She had fainted away.
+
+  ``Ah! well, keep out of the way, if you please,
+papa,'' said Dr. Mossy, as Madame presently reopened
+her eyes; ``no wonder you fainted; you have
+finished some hard work---see; here; so; Clarisse,
+dear, take this.''
+
+  Father and son stood side by side, tenderly regarding
+her as she revived.
+
+  ``Now, papa, you may kiss her; she is quite herself
+again, already.''
+
+  ``My daughter!'' said the stately General; ``this
+---is my son's ransom; and, with this,---I withdraw
+the Villivicencio ticket.''
+
+  ``You shall not,'' exclaimed the laughing lady,
+throwing her arms about his neck.
+
+  ``But, yes!'' he insisted ; ``my faith! you will at
+least allow me to remove my dead from the field.''
+
+  ``But, certainly;'' said the son; ``see, Clarisse, here
+is Madame, your aunt, asking us all into the house. 
+Let us go.''
+
+  The group passed out into the Rue Royale, Dr.
+Mossy shutting the door behind them. The sky was
+blue, the air was soft and balmy, and on the sweet
+south breeze, to which the old General bared his grateful
+brow, floated a ravishing odor of---
+
+  ``Ah! what is it?'' the veteran asked of the younger
+pair, seeing the little aunt glance at them with a playful
+smile.
+
+  Madame D<e'>licieuse, for almost the first time in her
+life, and Dr. Mossy for the thousandth---blushed.
+
+  It was the odor of orange-blossoms.
+
+
+[*End*]

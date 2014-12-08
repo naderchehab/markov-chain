@@ -1,0 +1,1249 @@
+*******************************************************************************
+[Title:Jean-Ah Poquelin]
+[Author:George Washington Cable]
+[Scanned:*]
+[Checked:*]
+[ID:*]
+[Revision:*]
+[Source:*]
+[Copyright:Public Domain - Copyright Expired]
+[Category:*]
+[Abstract:*]
+*******************************************************************************
+
+
+
+
+
+  This electronic edition of `Old Creole Days' is based on the
+two-volume edition published by Charles Scribner's Sons in 1883, and
+printed by Franklin Press: Rand, Avery, and Company, Boston.
+
+  Two copyright statements appear in the books -- they claim copyright
+for Charles Scribner's Sons from 1879 and 1883.
+
+
+
+
+Markup Conventions:
+==================
+
+        First line in each paragraph is indented two spaces.
+
+_ _	placed around italicized text
+
+= =	placed around extra emphasized text - small caps
+	in the printed edition
+
+<a'>	a acute
+<a`>	a grave
+<a^>	a circumflex
+<ae>	ae ligature
+<c,>	c cedilla
+<e'>	e acute
+<e`>	e grave
+<e^>	e circumflex
+<e:>	e dieresis
+<n~>	n with tilde
+<o^>	o circumflex
+<o:>	o dieresis
+<u^>	u circumflex
+
+<*>	indicates a major ellipsis in the text, usually shown by an
+	asterisk or an empty line. Don't confuse this with
+	the footnote callout.
+
+
+Footnotes
+
+  Footnotes in the text were placed at the foot of the page; in this
+edition they have been placed immediately after the line in which they
+are referenced. The footnote callout is always an asterisk,* and the
+text of the footnote has been
+
+*    Like this
+
+placed, slightly indented, between two empty lines, with an asterisk
+in the left margin as illustrated above.  If the footnote comes at the
+end of a paragraph, the first line of the following paragraph is
+indented two spaces, as usual.
+
+
+
+  The transcription and proofreading was done by Anders Thulin,
+Rydsvagen 288, S-582 50 Linkoping, Sweden.  Email address:
+ath@linkoping.trab.se
+
+
+
+
+
+              JEAN-AH POQUELIN.
+
+
+
+
+  In the first decade of the present century, when the
+newly established American Government was the most
+hateful thing in Louisiana---when the Creoles were
+still kicking at such vile innovations as the trial by
+jury, American dances, anti-smuggling laws, and the
+printing of the Governor's proclamation in English---
+when the Anglo-American flood that was presently to
+burst in a crevasse of immigration upon the delta had
+thus far been felt only as slippery seepage which made
+the Creole tremble for his footing---there stood, a
+short distance above what is now Canal Street, and
+considerably back from the line of villas which fringed
+the river-bank on Tchoupitoulas Road, an old colonial
+plantation-house half in ruin.
+
+  It stood aloof from civilization, the tracts that had
+once been its indigo fields given over to their first noxious
+wildness, and grown up into one of the horridest
+marshes within a circuit of fifty miles.
+
+  The house was of heavy cypress, lifted up on pillars,
+grim, solid, and spiritless, its massive build a
+strong reminder of days still earlier, when every man
+had been his own peace officer and the insurrection of
+the blacks a daily contingency. Its dark, weather-beaten
+roof and sides were hoisted up above the jungly
+plain in a distracted way, like a gigantic ammunition-wagon
+stuck in the mud and abandoned by some
+retreating army. Around it was a dense growth of
+low water willows, with half a hundred sorts of thorny
+or fetid bushes, savage strangers alike to the ``language
+of flowers'' and to the botanist's Greek. They
+were hung with countless strands of discolored and
+prickly smilax, and the impassable mud below bristled
+with _chevaux de frise_ of the dwarf palmetto. Two lone
+forest-trees, dead cypresses, stood in the centre of the
+marsh, dotted with roosting vultures. The shallow
+strips of water were hid by myriads of aquatic plants,
+under whose coarse and spiritless flowers, could one
+have seen it, was a harbor of reptiles, great and small,
+to make one shudder to the end of his days.
+
+  The house was on a slightly raised spot, the levee
+of a draining canal. The waters of this canal did not
+run; they crawled, and were full of big, ravening fish
+and alligators, that held it against all comers.
+
+  Such was the home of old Jean Marie Poquelin, once
+an opulent indigo planter, standing high in the esteem
+of his small, proud circle of exclusively male acquaintances
+in the old city; now a hermit, alike shunned by
+and shunning all who had ever known him. ``The
+last of his line,'' said the gossips. His father lies
+under the floor of the St. Louis Cathedral, with the
+wife of his youth on one side, and the wife of his old
+age on the other. Old Jean visits the spot daily. His
+half-brother---alas! there was a mystery; no one
+knew what had become of the gentle, young half-brother,
+more than thirty years his junior, whom once
+he seemed so fondly to love, but who, seven years ago,
+had disappeared suddenly, once for all, and left no
+clew of his fate.
+
+  They had seemed to live so happily in each other's
+love. No father, mother, wife to either, no kindred
+upon earth. The elder a bold, frank, impetuous, chivalric
+adventurer; the younger a gentle, studious, book-loving
+recluse; they lived upon the ancestral estate
+like mated birds, one always on the wing, the other
+always in the nest.
+
+  There was no trait in Jean Marie Poquelin, said the
+old gossips, for which he was so well known among his
+few friends as his apparent fondness for his ``little
+brother.'' ``Jacques said this,'' and ``Jacques said
+that;'' he ``would leave this or that, or any thing to
+Jacques,'' for ``Jacques was a scholar,'' and ``Jacques
+was good,'' or ``wise,'' or ``just,'' or ``far-sighted,''
+as the nature of the case required;' and ``he should
+ask Jacques as soon as he got home,'' since Jacques
+was never elsewhere to be seen.
+
+  It was between the roving character of the one
+brother, and the bookishness of the other, that the
+estate fell into decay. Jean Marie, generous gentleman,
+gambled the slaves away one by one, until none
+was left, man or woman, but one old African mute.
+
+  The indigo-fields and vats of Louisiana had been
+generally abandoned as unremunerative. Certain enterprising
+men had substituted the culture of sugar;
+but while the recluse was too apathetic to take so
+active a course, the other saw larger, and, at that
+time, equally respectable profits, first in smuggling,
+and later in the African slave-trade. What harm
+could he see in it? The whole people said it was
+vitally necessary, and to minister to a vital public
+necessity,---good enough, certainly, and so he laid up
+many a doubloon, that made him none the worse in the
+public regard.
+
+  One day old Jean Marie was about to start upon a
+voyage that was to be longer, much longer, than any
+that he had yet made. Jacques had begged him hard
+for many days not to go, but he laughed him off, and
+finally said, kissing him:
+
+  ``_Adieu, 'tit fr<e`>re._''
+
+  ``No,'' said Jacques, ``I shall go with you.''
+
+  They left the old hulk of a house in the sole care of
+the African mute, and went away to the Guinea coast
+together.
+
+  Two years after, old Poquelin came home without
+his vessel. He must have arrived at his house by
+night. No one saw him come. No one saw ``his little
+brother;'' rumor whispered that he, too, had returned,
+but he had never been seen again.
+
+  A dark suspicion fell upon the old slave-trader. No
+patter that the few kept the many reminded of the
+tenderness that had ever marked his bearing to the
+missing man. The many shook their heads. ``You
+know he has a quick and fearful temper;'' and ``why
+does he cover his loss with mystery?'' ``Grief would
+out with the truth.''
+
+  ``But,'' said the charitable few, look in his face;
+see that expression of true humanity.'' The many did
+look in his face, and, as he looked in theirs, he read
+the silent question: ``Where is thy brother Abel?''
+The few were silenced, his former friends died off, and
+the name of Jean Marie Poquelin became a symbol of
+witchery, devilish crime, and hideous nursery fictions.
+
+  The man and his house were alike shunned. The
+snipe and duck hunters forsook the marsh, and the wood-cutters
+abandoned the canal. Sometimes the hardier
+boys who ventured out there snake-shooting heard
+a slow thumping of oar-locks on the canal. They
+would look at each other for a moment half in consternation,
+half in glee, then rush from their sport in
+wanton haste to assail with their gibes the unoffending,
+withered old man who, in rusty attire, sat in the
+stern of a skiff, rowed homeward by his white-headed
+African mute.
+
+  ``O Jean-ah Poquelin! O Jean-ah! Jean-ah Poquelin!''
+
+  It was not necessary to utter more than that. No
+hint of wickedness, deformity, or any physical or moral
+demerit; merely the name and tone of mockery: ``Oh,
+Jean-ah Poquelin!'' and while they tumbled one over
+another in their needless haste to fly, he would rise
+carefully from his seat, while the aged mute, with
+downcast face, went on rowing, and rolling up his
+brown fist and extending it toward the urchins, would
+pour forth such an unholy broadside of French imprecation
+and invective as would all but craze them with
+delight.
+
+  Among both blacks and whites the house was the
+object of a thousand superstitions. Every midnight,
+they affirmed, the _feu follet_ came out of the marsh and
+ran in and out of the rooms, flashing from window to
+window. The story of some lads, whose words in ordinary
+statements was worthless, was generally credited,
+that the night they camped in the woods, rather
+than pass the place after dark, they saw, about sunset,
+every window blood-red, and on each of the four chimneys
+an owl sitting, which turned his head three times
+round, and moaned and laughed with a human voice. 
+There was a bottomless well, everybody professed to
+know, beneath the sill of the big front door under the
+rotten veranda; whoever set his foot upon that threshold
+disappeared forever in the depth below.
+
+  What wonder the marsh grew as wild as Africa!
+Take all the Faubourg Ste. Marie, and half the ancient
+city, you would not find one graceless dare-devil reckless
+enough to pass within a hundred yards of the
+house after nightfall.
+
+			<*>
+
+  The alien races pouring into old New Orleans began
+to find the few streets named for the Bourbon princes
+too strait for them. The wheel of fortune, beginning
+to whirl, threw them off beyond the ancient corporation
+lines, and sowed civilization and even trade
+upon the lands of the Graviers and Girods. Fields
+became roads, roads streets. Everywhere the leveller
+was peering through his glass, rodsmen were whacking
+their way through willow-brakes and rose-hedges, and
+the sweating Irishmen tossed the blue clay up with
+their long-handled shovels.
+
+  ``Ha! that is all very well,'' quoth the Jean-Baptistes,
+feeling the reproach of an enterprise that asked neither
+cooperation nor advice of them, ``but wait till they
+come yonder to Jean Poquelin's marsh; ha! ha! ha!''
+The supposed predicament so delighted them, that they
+put on a mock terror and whirled about in an assumed
+stampede, then caught their clasped hands between
+their knees in excess of mirth, and laughed till the
+tears ran; for whether the street-makers mired in the
+marsh, or contrived to cut through old ``Jean-ah's''
+property, either event would be joyful. Meantime a
+line of tiny rods, with bits of white paper in their split
+tops, gradually extended its way straight through the
+haunted ground, and across the canal diagonally.
+
+  ``We shall fill that ditch,'' said the men in mud-boots,
+and brushed close along the chained and padlocked
+gate of the haunted mansion. Ah, Jean-ah
+Poquelin, those were not Creole boys, to be stampeded
+with a little hard swearing.
+
+  He went to the Governor. That official scanned the
+odd figure with no slight interest. Jean Poquelin was
+of short, broad frame, with a bronzed leonine face. 
+His brow was ample and deeply furrowed. His eye,
+large and black, was bold and open like that of a
+war-horse, and his jaws shut together with the firmness
+of iron. He was dressed in a suit of Attakapas
+cottonade, and his shirt unbuttoned and thrown back
+from the throat and bosom, sailor-wise, showed a herculean
+breast, hard and grizzled. There was no fierceness
+or defiance in his look, no harsh ungentleness,
+no symptom of his unlawful life or violent temper; but
+rather a peaceful and peaceable fearlessness. Across
+the whole face, not marked in one or another feature,
+but as it were laid softly upon the countenance like an
+almost imperceptible veil, was the imprint of some
+great grief. A careless eye might easily overlook
+it, but, once seen, there it hung---faint, but unmistakable.
+
+  The Governor bowed.
+
+  ``_Parlez-vous fran<c,>ais?_'' asked the figure.
+
+  ``I would rather talk English, if you can do so,''
+said the Governor.
+
+  ``My name, Jean Poquelin.''
+
+  ``How can I serve you, Mr. Poquelin?''
+
+  ``My 'ouse is yond'; _dans le marais l<a`>-bas._''
+
+  The Governor bowed.
+
+  ``Dat _marais_ billong to me.''
+
+  ``Yes, sir.''
+
+  ``To me; Jean Poquelin; I hown 'im meself.''
+
+  ``Well, sir?''
+
+  ``He don't billong to you; I get him from me
+father.''
+
+  ``That is perfectly true, Mr. Poquelin, as far as I
+am aware.''
+
+  ``You want to make strit pass yond'?''
+
+  ``I do not know, sir; it is quite probable; but the
+city will indemnity you for any loss you may suffer---
+you will get paid, you understand.''
+
+  ``Strit can't pass dare.''
+
+  ``You will have to see the municipal authorities
+about that, Mr. Poquelin.''
+
+  A bitter smile came upon the old man's face:
+
+  ``_Pardon, Monsieur_, you is not _le Gouverneur?_''
+
+  ``Yes.''
+
+  ``_Mais,_ yes. You har _le Gouverneur_---yes. Veh-well.
+I come to you. I tell you, strit can't pass at
+me 'ouse.''
+
+  ``But you will have to see''---
+
+  ``I come to you. You is _le Gouverneur._  I know
+not the new laws. I ham a Fr-r-rench-a-man!
+Fr-rench-a-man have something _aller au contraire_---
+he come at his _Gouverneur._  I come at you. If me not
+had been bought from me king like _bossals_ in the hold
+time, ze king gof---France would-a-show _Monsieur le
+Gouverneur_ to take care his men to make strit in right
+places. _Mais,_ I know; we billong to _Monsieur le
+Pr<e'>sident._  I want you do somesin for me, eh?''
+
+  ``What is it?'' asked the patient Governor.
+
+  ``I want you tell _Monsieur le Pr<e'>sident,_ strit---
+can't---pass---at---me---'ouse.''
+
+  ``Have a chair, Mr. Poquelin;'' but the old man
+did not stir. The Governor took a quill and wrote a
+line to a city official, introducing Mr. Poquelin, and
+asking for him every possible courtesy. He handed it
+to him, instructing him where to present it.
+
+  ``Mr. Poquelin,'' he said, with a conciliatory smile,
+``tell me, is it your house that our Creole citizens tell
+such odd stories about?''
+
+  The old man glared sternly upon the speaker, and
+with immovable features said:
+
+  ``You don't see me trade some Guinea nigga'?''
+
+  ``Oh, no.''
+
+  ``You don't see me make some smugglin'?''
+
+  ``No, sir; not at all.''
+
+  ``But, I am Jean Marie Poquelin. I mine me hown
+bizniss. Dat all right? Adieu.''
+
+  He put his hat on and withdrew. By and by he
+stood, letter in hand, before the person to whom it was
+addressed. This person employed an interpreter.
+
+  ``He says,'' said the interpreter to the officer, ``he
+come to make you the fair warning how you muz not
+make the street pas' at his 'ouse.''
+
+  The officer remarked that ``such impudence was refreshing;''
+but the experienced interpreter translated
+freely.
+
+  ``He says: `Why you don't want?' '' said the 
+interpreter.
+
+  The old slave-trader answered at some length.
+
+  ``He says,'' said the interpreter, again turning to
+the officer, ``the marass is a too unhealth' for peopl'
+to live.''
+
+  ``But we expect to drain his old marsh; it's not
+going to be a marsh.''
+
+  ``_Il dit_''---The interpreter explained in French.
+
+  The old man answered tersely.
+
+  ``He says the canal is a private,'' said the interpreter.
+
+  ``Oh! _that_ old ditch; that's to be filled up. Tell
+the old man we're going to fix him up nicely.''
+
+  Translation being duly made, the man in power was
+amused to see a thunder-cloud gathering on the old
+man's face.
+
+  ``Tell him,'' he added, ``by the time we finish,
+there'll not be a ghost left in his shanty.''
+
+  The interpreter began to translate, but---
+
+  ``_J' com-prends, J' comprends,_''said the old man,
+with an impatient gesture, and burst forth, pouring
+curses upon the United States, the President, the Territory
+of Orleans, Congress, the Governor and all his
+subordinates, striding out of the apartment as he
+cursed, while the object of his maledictions roared
+with merriment and rammed the floor with his foot.
+
+  ``Why, it will make his old place worth ten dollars
+to one,'' said the official to the interpreter.
+
+  ``'Tis not for de worse of de property,'' said the
+interpreter.
+
+  ``I should guess not,'' said the other, whittling his
+chair,---``seems to me as if some of these old Creoles
+would liever live in a crawfish hole than to have a
+neighbor.''
+
+  ``You know what make old Jean Poquelin make
+like that? I will tell you. You know''---
+
+  The interpreter was rolling a cigarette, and paused
+to light his tinder; then, as the smoke poured in a
+thick double stream from his nostrils, he said, in a
+solemn whisper:
+
+  ``He is a witch.''
+
+  ``Ho, ho, ho!'' laughed the other.
+
+  ``You don't believe it? What you want to bet?''
+cried the interpreter, jerking himself half up and
+thrusting out one arm while he bared it of its coat-sleeve
+with the hand of the other. ``What you want
+to bet?''
+
+  ``How do you know?'' asked the official.
+
+  ``Dass what I goin' to tell you. You know, one
+evening I was shooting some _grosbec._  I killed three;
+but I had trouble to fine them, it was becoming so
+dark. When I have them I start' to come home;
+then I got to pas' at Jean Poquelin's house.''
+
+  ``Ho, ho, ho!'' laughed the other, throwing his leg
+over the arm of his chair.
+
+  ``Wait,'' said the interpreter. ``I come along slow
+not making some noises; still, still''---
+
+  ``And scared,'' said the smiling one.
+
+  ``_Mais,_ wait. I get all pas' the 'ouse. `Ah!' I
+say; `all right!' Then I see two thing' before!
+Hah! I get as cold and humide, and shake like a leaf. 
+You think it was nothing? There I see, so plain as
+can be (though it was making nearly dark), I see Jean
+---Marie---Po-que-lin walkin' right in front, and right
+there beside of him was something like a man---but
+not a man---white like paint!---I dropp' on the grass
+from scared---they pass' ; so sure as I live 'twas the
+ghos' of Jacques Poquelin, his brother!''
+
+  ``Pooh!'' said the listener.
+
+  ``I'll put my han' in the fire,'' said the interpreter.
+
+  ``But did you never think,'' asked the other,
+``that that might be Jack Poquelin, as you call him,
+alive and well, and for some cause hid away by his
+brother?''
+
+  ``But there har' no cause!'' said the other, and the
+entrance of third parties changed the subject.
+
+  Some months passed and the street was opened. A
+canal was first dug through the marsh, the small one
+which passed so close to Jean Poquelin's house was
+filled, and the street, or rather a sunny road, just
+touched a corner of the old mansion's dooryard. The
+morass ran dry. Its venomous denizens slipped away
+through the bulrushes; the cattle roaming freely upon
+its hardened surface trampled the superabundant undergrowth.
+The bellowing frogs croaked to westward. 
+Lilies and the flower-de-luce sprang up in the place of
+reeds; smilax and poison-oak gave way to the purple-plumed
+iron-weed and pink spiderwort; the bindweeds
+ran everywhere blooming as they ran, and on one of
+the dead cypresses a giant creeper hung its green
+burden of foliage and lifted its scarlet trumpets. 
+Sparrows and red-birds flitted through the bushes, and
+dewberries grew ripe beneath. Over all these came a
+sweet, dry smell of salubrity which the place had not
+known sinee the sediments of the Mississippi first
+lifted it from the sea.
+
+  But its owner did not build. Over the willow-brakes,
+and down the vista of the open street, bright
+new houses, some singly, some by ranks, were prying
+in upon the old man's privacy. They even settled
+down toward his southern side. First a wood-cutter's
+hut or two, then a market gardener's shanty, then
+a painted cottage, and all at once the faubourg had
+flanked and half surrounded him and his dried-up
+marsh.
+
+  Ah! then the common people began to hate him.
+``The old tyrant!'' ``You don't mean an old
+_tyrant_?'' ``Well, then, why don't he build when
+the public need demands it? What does he live in
+that unneighborly way  for?'' ``The old pirate!''
+``The old kidnapper!'' How easily even the most
+ultra Louisianians put on the imported virtues of the
+North when they could be brought to bear against the
+hermit, ``There he goes, with the boys after him!
+Ah! ha! ha! Jean-ah Poquelin! Ah! Jean-ah!
+Aha! aha! Jean-ah Marie! Jean-ah Poquelin! The
+old villain!'' How merrily the swarming Am<e'>ricains
+echo the spirit of persecution! ``The old fraud,''
+they say---``pretends to live in a haunted house, does
+he? We'll tar and feather him some day. Guess we
+can fix him.''
+
+  He cannot be rowed home along the old canal now;
+he walks. He has broken sadly of late, and the
+street urchins are ever at his heels. It is like the
+days when they cried: ``Go up, thou bald-head,'' and
+the old man now and then turns and delivers ineffectual
+curses.
+
+  To the Creoles---to the incoming lower class of superstitious
+Germans, Irish, Sicilians, and others---he
+became an omen and embodiment of public and private
+ill-fortune. Upon him all the vagaries of their
+superstitions gathered and grew. If a house caught
+fire, it was imputed to his machinations. Did a woman
+go off in a fit, he had bewitched her. Did a
+child stray off for an hour, the mother shivered with
+the apprehension that Jean Poquelin had offered him
+to strange gods. The house was the subject of every
+bad boy's invention who loved to contrive ghostly lies.
+``As long as that house stands we shall have bad luck. 
+Do you not see our pease and beans dying, our cabbages
+and lettuce going to seed and our gardens turning
+to dust, while every day you can see it raining in
+the woods? The rain will never pass old Poquelin's
+house. He keeps a fetich. He has conjured the
+whole Faubourg St. Marie. And why, the old wretch?
+Simply because our playful and innocent children call
+after him as he passes.''
+
+  A ``Building and Improvement Company,'' which
+had not yet got its charter, ``but was going to,'' and
+which had not, indeed, any tangible capital yet, but
+``was going to have some,'' joined the ``Jean-ah Poquelin''
+war. The haunted property would be such a
+capital site for a market-house! They sent a deputation
+to the old mansion to ask its occupant to sell. 
+The deputation never got beyond the chained gate and
+a very barren interview with the African mute. The
+President of the Board was then empowered (for he
+had studied French in Pennsylvania and was considered
+qualified) to call and persuade M. Poquelin to
+subscribe to the company's stock; but---
+
+  ``Fact is, gentlemen,'' he said at the next meeting,
+it would take us at least twelve months to make Mr.
+Pokaleen understand the rather original features of
+our system, and he wouldn't subscribe when we'd
+done; besides, the only way to see him is to stop him
+on the street."
+
+  There was a great laugh from the Board; they
+couldn't help it. ``Better meet a bear robbed of her
+whelps,'' said one.
+
+  ``You're mistaken as to that,''  said  the  President.
+``I did meet him, and stopped him, and found him
+quite polite. But I could get no satisfaction from
+him; the fellow wouldn't talk in French, and when I
+spoke in English he hoisted his old shoulders up, and
+gave the same answer to every thing I said.''
+
+  ``And that was---?'' asked one or two, impatient
+of the pause.
+
+  ``That it `don't worse wile?' ''
+
+  One of the Board said: ``Mr. President, this market-house
+project, as I take it, is not altogether a
+selfish one; the community is to be benefited by it. 
+We may feel that we are working in the public interest
+[the Board smiled knowingly], if we employ all
+possible means to oust this old nuisance from among
+us. You may know that at the time the street was
+cut through, this old Poquelann did all he could to
+prevent it. It was owing to a certain connection
+which I had with that affair that I heard a ghost story
+[smiles, followed by a sudden dignified check]---ghost
+story, which, of course, I am not going to relate; but
+I may say that my profound conviction, arising from a
+prolonged study of that story, is, that this old villain,
+John Poquelann, has his brother locked up in that old
+house. Now, if this is so, and we can fix it on him,
+I merely _suggest_ that we can make the matter highly
+useful. I don't know,'' he added, beginning to sit
+down, ``but that it is an action we owe to the community
+---hem!''
+
+  ``How do you propose to handle the subject?''
+asked the President.
+
+  ``I was thinking,'' said the speaker, ``that, as a
+Board of Directors, it would be unadvisable for us to
+authorize any action involving trespass; but if you,
+for instance, Mr. President, should, as it were, for
+mere curiosity, _request_ some one, as, for instance, our
+excellent Secretary, simply as a personal favor, to look
+into the matter---this is merely a suggestion.''
+
+  The Secretary smiled sufficiently to be understood
+that, while he certainly did not consider such preposterous
+service a part of his duties as secretary, he
+might, notwithstanding, accede to the President's request;
+and the Board adjourned.
+
+  Little White, as the Secretary was called, was a
+mild, kind-hearted little man, who, nevertheless, had
+no fear of any thing, unless it was the fear of being
+unkind.
+
+  ``I tell you frankly,'' he privately said to the President,
+``I go into this purely for reasons of my own.''
+
+  The next day, a little after nightfall, one might
+have descried this little man slipping along the rear
+fence of the Poquelin place, preparatory to vaulting
+over into the rank, grass-grown yard, and bearing
+himself altogether more after the manner of a collector
+of rare chickens than according to the usage of
+secretaries.
+
+  The picture presented to his eye was not calculated
+to enliven his mind. The old mansion stood out
+against the western sky, black and silent. One long,
+lurid pencil-stroke along a sky of slate was all that
+was left of daylight. No sign of life was apparent;
+no light at any window, unless it might have been
+on the side of the house hidden from view. No owls
+were on the chimneys, no dogs were in the yard.
+
+  He entered the place, and ventured up behind a small
+cabin which stood apart from the house. Through one
+of its many crannies he easily detected the African
+mute crouched before a flickering pine-knot, his head
+on his knees, fast asleep.
+
+  He concluded to enter the mansion, and, with that
+view, stood and scanned it. The broad rear steps of
+the veranda would not serve him; he might meet some
+one midway. He was measuring, with his eye, the
+proportions of one of the pillars which supported it,
+and estimating the practicability of climbing it, when
+he heard a footstep. Some one dragged a chair out
+toward the railing, then seemed to change his mind
+and began to pace the veranda, his footfalls resounding
+on the dry boards with singular loudness. Little
+White drew a step backward, got the figure between
+himself and the sky, and at once recognized the short,
+broad-shouldered form of old Jean Poquelin.
+
+   He sat down upon a billet of wood, and, to escape
+the stings of a whining cloud of mosquitoes, shrouded
+his face and neck in his handkerchief, leaving his eyes
+uncovered.
+
+     He had sat there but a moment when he noticed
+a strange, sickening odor, faint, as if coming from
+a distance, but loathsome and horrid.
+
+  Whence could it come? Not from the cabin; not
+from the marsh, for it was as dry as powder. It was
+not in the air; it seemed to come from the ground.
+
+  Rising up, he noticed, for the first time, a few steps
+before him a narrow footpath leading toward the
+house. He glanced down it---ha! right there was
+some one coming---ghostly white!
+
+  Quick as thought, and as noiselessly, he  lay  down  at
+full length against the cabin. It was bold strategy,
+and yet, there was no denying it, little White felt that
+he was frightened. ``It is not a ghost,'' he said to
+himself. ``I _know_ it cannot be a ghost;'' but the
+perspiration burst out at every pore, and the air seemed
+to thicken with beat. ``It is a living man,'' he said
+in his thoughts. ``I hear his footstep, and I hear old
+Poquelin's footsteps, too, separately, over on the veranda.
+I am not discovered; the thing has passed;
+there is that odor again; what a smell of death! Is it
+coming back? Yes. It stops at the door of the
+cabin. Is it peering in at the sleeping mute? It
+moves away. It is in the path again. Now it is
+gone.'' He shuddered. ``Now, if I dare venture,
+the mystery is solved.'' He rose cautiously, close
+against the cabin, and peered along the path.
+
+  The figure of a man, a presence if not a body---but
+whether clad in some white stuff or naked the darkness
+would not allow him to determine---had turned, and
+now, with a seeming painful gait, moved slowly from
+him. ``Great Heaven! can it be that the dead do
+walk?''  He withdrew again the hands which had
+gone to   his eyes. The dreadful object passed between
+two pillars and under the house. He listened. There
+was a faint sound as of feet upon a staircase ; then all
+was still except the measured tread of Jean Poquelin
+walking on the veranda, and the heavy respirations of
+the mute slumbering in the cabin.
+
+  The little Secretary was about to retreat; but as he
+looked once more toward the haunted house a dim
+light appeared in the crack of a closed window, and
+presently old Jean Poquelin came, dragoning his chair,
+and sat down close against the shining cranny. He
+spoke in a low, tender tone in the French tongue,
+making some inquiry. An answer came from within. 
+Was it the voice of a human? So unnatural was it
+---so hollow, so discordant, so unearthly---that the
+stealthy listener shuddered again from head to foot;
+and when something stirred in some bushes near by---
+though it may have been nothing more than a rat
+---and came scuttling through the grass, the little
+Secretary actually turned and fled. As he left the
+enclosure he moved with bolder leisure through the
+bushes; yet now and then he spoke aloud: ``Oh, oh!
+I see, I understand!'' and shut his eyes in his hands.
+
+  How strange that henceforth little White was the
+champion of Jean Poquelin! In season and out of
+season---wherever a word was uttered against him---
+the Secretary, with a quiet, aggressive force that instantly
+arrested gossip, demanded upon what authority
+the statement or conjecture was made; but as he did
+not condescend to explain his own remarkable attitude,
+it was not long before the disrelish and suspicion
+which had followed Jean Poquelin so many years fell
+also upon him.
+
+  It was only the next evening but one after his
+adventure that he made himself a source of sullen
+amazement to one hundred and fifty boys, by ordering
+them to desist from their wanton hallooing. Old Jean
+Poquelin, standing and shaking his cane, rolling out
+his long-drawn maledictions, paused and stared, then
+gave the Secretary a courteous bow and started on.
+
+The boys, save one, from pure astonishment, ceased;
+but a ruffianly little Irish lad, more daring than any
+had yet been, threw a big hurtling clod, that struck
+old Poquelin between the shoulders and burst like a
+shell. The enraged old man wheeled with uplifted
+staff to give chase to the scampering vagabond; and
+---he may have tripped, or he may not, but he fell full
+length. Little White hastened to help him up, but he
+waved him off with a fierce imprecation and staggering
+to his feet resumed his way homeward. His lips were
+reddened with blood.
+
+  Little White was on his way to the meeting of the
+Board. He would have given all he dared spend to
+have staid away, for he felt both too fierce and too
+tremulous to brook the criticisms that were likely to be
+made.
+
+  ``I can't help it, gentlemen; I can't help you to
+make a case against the old man, and I'm not going
+to.''
+
+  ``We did not expect this disappointment, Mr.
+White.''
+
+  ``I can't help that, sir. No, sir; you had better
+not appoint any more investigations. Somebody'll investigate
+himself into trouble. No, sir; it isn't a
+threat, it is only my advice, but I warn you that whoever
+takes the task in hand will rue it to his dying day
+---which may be hastened, too.''
+
+  The President expressed himself ``surprised.''
+
+  ``I don't care a rush,'' answered little White,
+wildly and foolishly. ``I don't care a rush if you are,
+sir. No, my nerves are not disordered; my head's as
+clear as a bell. No, I'm _not_ excited.''
+
+  A Director remarked that the Secretary looked as
+though he had waked from a nightmare.
+
+  ``Well, sir, if you want to know the fact, I have;
+and if you choose to cultivate old Poquelin's society
+you can have one, too.''
+
+  ``White,'' called a facetious member, but White did
+not notice. ``White,'' he called again.
+
+  ``What?'' demanded White, with a scowl.
+
+  ``Did you see the ghost?''
+
+  ``Yes, sir; I did,'' cried White, hitting the table,
+and handing the President a paper which brought the
+Board to other business.
+
+  The story got among the gossips that somebody
+(they were afraid to say little White) had been to the
+Poquelin mansion by night and beheld something appalling.
+The rumor was but a shadow of the truth,
+magnified and distorted as is the manner of shadows. 
+He had seen skeletons walking, and had barely escaped
+the clutches of one by making the sign of the cross.
+
+  Some madcap boys with an appetite for the horrible
+plucked up courage to venture through the dried marsh
+by the cattle-path, and come before the house at a
+spectral hour when the air was full of bats. Something
+which they but half saw---half a sight was
+enough---sent them tearing back through the willow-brakes
+and acacia bushes to their homes, where they
+fairly dropped down, and cried:
+
+  ``Was it white?'' ``No---yes---nearly so---we
+can't tell---but we saw it.'' And one could hardly
+doubt, to look at their ashen faces, that they had,
+whatever it was.
+
+  ``If that old rascal lived in the country we come
+from,'' said certain Am<e'>ricains, ``he'd have been
+tarred and feathered before now, wouldn't he, Sanders?''
+
+  ``Well, now he just would.''
+
+  ``And we'd have rid him on a rail, wouldn't we?''
+
+  ``That's what I allow.''
+
+  ``Tell you what you _could_ do.'' They were talking
+to some rollicking Creoles who had assumed an absolute
+necessity for doing _something._  ``What is it you
+call this thing where an old man marries a young girl,
+and you come out with horns and''---
+
+  ``_Charivari?_'' asked the Creoles.
+
+  ``Yes, that's it. Why don't you shivaree him?''
+Felicitous suggestion.
+
+  Little White, with his wife beside him, was sitting
+on their doorsteps on the sidewalk, as Creole custom
+had taught them, looking toward the sunset. They
+had moved into the lately-opened street. The view
+was not attractive on the score of beauty. The houses
+were small and scattered, and across the flat commons,
+spite of the lofty tangle of weeds and bushes, and
+spite of the thickets of acacia, they needs must see the
+dismal old Poquelin mansion, tilted awry and shutting
+out the declining sun. The moon, white and slender,
+was hanging the tip of its horn over one of the chimneys.
+
+  ``And you say,'' said the Secretary, ``the old black
+man has been going by here alone? Patty, suppose
+old Poquelin should be concocting some mischief; he
+don't lack provocation; the way that clod hit him the
+other day was enough to have killed him. Why,
+Patty, he dropped as quick as _that!_ No wonder you
+haven't seen him. I wonder if they haven't heard
+something about him up at the drug-store. Suppose
+I go and see.''
+
+  ``Do,'' said his wife.
+
+  She sat alone for half an hour, watching that sudden
+going out of the day peculiar to the latitude.
+
+  ``That moon is ghost enough for one house,'' she
+said, as her husband returned. ``It has gone right
+down the chimney.''
+
+  ``Patty,'' said little White, ``the drug-clerk says
+the boys are going to shivaree old Poquelin to-night.
+I'm going to try to stop it.''
+
+  ``Why, White,'' said his wife, ``you'd  better   not.
+You'll get hurt.''
+
+  ``No, I'll not''
+
+  ``Yes, you will.''
+
+  ``I'm going to sit out here until they come along. 
+They're compelled to pass right by here.''
+
+  ``Why, White, it may be midnight before they start;
+you're not going to sit out here till then.''
+
+  ``Yes, I am.''
+
+  ``Well, you're very foolish,'' said Mrs. White in an
+undertone, looking anxious, and tapping one of the
+steps with her foot.
+
+  They sat a very long time talking over little family
+matters.
+
+  ``What's that?'' at last said Mrs. White.
+
+  ``That's the nine-o'clock gun,'' said White, and
+they relapsed into a long-sustained, drowsy silence.
+
+  ``Patty, you'd better go in and go to bed,'' said he
+at last.
+
+  ``I'm not sleepy.''
+
+  ``Well, you're very foolish,'' quietly remarked little
+White, and again silence fell upon them.
+
+  ``Patty, suppose I walk out to the old house and
+see if I can find out any thing.''
+
+  ``Suppose,'' said she, ``you don't do any such---
+listen!''
+
+  Down the street arose a great hubbub. Dogs and
+boys were howling and barking; men were laughing,
+shouting, groaning, and blowing horns, whooping, and
+clanking cow-bells, whinnying, and howling, and rattling
+pots and pans.
+
+  ``They  are  coming  this  way,''  said  little  White.
+You had better go into the house, Patty.''
+
+  ``So had you.''
+
+  ``No. I'm going to see if I can't stop them.''
+
+  ``Why, White!''
+
+  ``I'll be back in a minute,'' said White, and went
+toward the noise.
+
+  In a few moments the little Secretary met the mob. 
+The pen hesitates on the word, for there is a respectable
+difference, measurable only on the scale of the half
+century, between a mob and a _charivari._  Little White
+lifted his ineffectual voice. He faced the head of the
+disorderly column, and cast himself about as if he
+were made of wood and moved by the jerk of a string. 
+He rushed to one who seemed, from the size and clatter
+of his tin pan, to be a leader. ``_Stop these fellows,
+Bienvenu, stop them just a minute, till I tell them
+something._'' Bienvenu turned and brandished his instruments
+of discord in an imploring way to the crowd. 
+They slackened their pace, two or three bushed their
+horns and joined the prayer of little White and Bienvenu
+for silence. The throng halted. The hush was
+delicious.
+
+  ``Bienvenu,'' said little White, ``don't shivaree old
+Poquelin to-night ; he's''---
+
+  ``My fwang,'' said the swaying Bienvenu, ``who
+tail you I goin' to chahivahi somebody, eh? You sink
+bickause I make a little playfool wiz zis tin pan zat I
+am _dhonk_---?''
+
+  ``Oh, no, Bienvenu, old fellow, you're all right. I
+was afraid you might not know that old Poquelin was
+sick, you know, but you're not going there, are you?''
+
+  ``My fwang, I vay soy to tail you zat you ah dhonk
+as de dev'. I am _shem_ of you. I ham ze servan' of
+ze _publique._  Zese _citoyens_ goin' to wickwest Jean
+Poquelin to give to the Ursuline' two hondred fifty
+dolla' ''---
+
+  ``_H<e'> quoi!_'' cried a listener, ``_Cinq cent piastres,
+oui!''
+
+  ``Oui!'' said Bienvenu, ``and if he wiffuse we make
+him some lit' _musique;_ ta-ra-ta!'' He hoisted a
+merry hand and foot, then frowning, added: ``Old
+Poquelin got no bizniz dhink s'much w'isky.''
+
+  ``But, gentlemen,'' said little White, around whom
+a circle had gathered, ``the old man is very sick.''
+
+  ``My faith!'' cried a tiny Creole, ``we did not make
+him to be sick. W'en we have say we going make _le
+charivari,_ do you want that we hall tell a lie? My
+faith! 'sfools!''
+
+  ``But you can shivaree somebody else,'' said desperate
+little White.
+
+  ``_Oui!_'' cried Bienvenu, ``_et chahivahi_ Jean-ah
+Poquelin tomo'w!''
+
+  ``Let us go to Madame Schneider!'' cried two or
+three, and amid huzzas and confused cries, among
+which was heard a stentorian Celtic call for drinks, the
+crowd again began to move.
+
+   ``_Cent piastres pour l'h<o^>pital de charit<e'>!_''
+
+  ``Hurrah!''
+
+  ``One hongred dolla' for Charity Hospital!''
+
+  ``Hurrah!''
+
+  ``Whang!'' went a tin pan, the crowd yelled, and
+Pandemonium gaped again. They were off at a right
+angle.
+
+  Nodding, Mrs. White looked at the mantle-clock. 
+
+  ``Well, if it isn't away after midnight.''
+
+  The hideous noise down street was passing beyond
+earshot. She raised a sash and listened. For a moment
+there was silence. Some one came to the door. 
+
+  ``Is that you, White?''
+
+  ``Yes.'' He entered. ``I succeeded, Patty.''
+
+  ``Did you?'' said Patty, joyfully.
+
+  ``Yes. They've gone down to shivaree the old
+Dutchwoman who married her step-daughter's sweet-heart.
+They say she has got to pay a hundred dollars
+to the hospital before they stop.''
+
+  The couple retired, and Mrs. White slumbered. 
+She was awakened by her husband snapping the lid of
+his watch.
+
+  ``What time?'' she asked.
+
+  ``Half-past three. Patty, I haven't slept a wink.
+Those fellows are out yet. Don't you hear them?''
+
+  ``Why, White, they're coming this way!''
+
+  ``I know they are,'' said White, sliding out of bed
+and drawing on his clothes, ``and they're coming fast. 
+You'd better go away from that window, Patty. My!
+what a clatter!''
+
+  ``Here they are,'' said Mrs. White, but her husband
+was gone. Two or three hundred men and boys
+pass the place at a rapid walk straight down the broad,
+new street, toward the hated house of ghosts. The
+din was terrific. She saw little White at the head of
+the rabble brandishing his arms and trying in vain to
+make himself heard; but they only shook their heads,
+laughing and hooting the louder, and so passed, bearing
+him on before them.
+
+  Swiftly they pass out from among the houses, away
+from the dim oil lamps of the street, out into the
+broad starlit commons, and enter the willowy jungles
+of the haunted ground. Some hearts fail and their
+owners lag behind and turn back, suddenly remembering
+how near morning it is. But the most part push
+on, tearing the air with their clamor.
+
+  Down ahead of them in the long, thicket-darkened
+way there is---singularly enough---a faint, dancing
+light. It must be very near the old house; it is. It
+has stopped now. It is a lantern, and is under a well-known
+sapling which has grown up on the wayside
+since the canal was filled. Now it swings mysteriously
+to and fro. A goodly number of the more ghost-fearing
+give up the sport; but a full hundred move
+forward at a run, doubling their devilish howling and
+banging.
+
+  Yes; it is a lantern, and there are two persons
+under the tree. The crowd draws near---drops into
+a walk; one of the two is the old African mute; he
+lifts the lantern up so that it shines on the other; the
+crowd recoils; there is a hush of all clangor, and all
+at once, with a cry of mingled fright and horror from
+every throat, the whole throng rushes back, dropping
+every thing, sweeping past little White and hurrying
+on, never stopping until the jungle is left behind, and
+then to find that not one in ten has seen the cause of
+the stampede, and not one of the tenth is certain what
+it was.
+
+  There is one huge fellow among them who looks
+capable of any villany. He finds something to mount
+on, and, in the Creole _patois_, calls a general halt. 
+Bienvenu sinks down, and, vainly trying to recline
+gracefully, resigns the leadership. The herd gather
+round the speaker; he assures them that they have
+been outraged. Their right peaceably to traverse the
+public streets has been trampled upon. Shall such
+encroachments be endured? It is now daybreak. Let
+them go now by the open light of day and force a free
+passage of the public highway!
+
+  A scattering consent was the response, and the
+crowd, thinned now and drowsy, straggled quietly
+down toward the old house. Some drifted ahead,
+others sauntered behind, but every  one, as he again
+neared the tree, came to a stand-still. Little White
+sat upon a bank of turf on the opposite side of the
+way looking very stern and sad. To each new-comer
+he put the same question:
+
+  ``Did you come here to go to old Poquelin's?''
+
+  ``Yes.''
+
+  ``He's dead.'' And if the shocked hearer started
+away he would say: ``Don't go away.''
+
+  ``Why not?''
+
+  ``I want you to go to the funeral presently.''
+
+  If some Louisianian, too loyal to dear France or
+Spain to understand English, looked bewildered, some
+one would interpret for him; and presently they went. 
+Little White led the van, the crowd trooping after him
+down the middle of the way. The gate, that had
+never been seen before unchained, was open. Stern
+little White stopped a short distance from it; the
+rabble stopped behind him. Something was moving
+out from under the veranda. The many whisperers
+stretched upward to see. The African mute came very
+slowly toward the gate, leading by a cord in the nose
+a small brown bull, which was harnessed to a rude
+cart. On the flat body of the cart, under a black
+cloth, were seen the outlines of a long box.
+
+  ``Hats off, gentlemen,'' said little White, as the box
+came in view, and the crowd silently uncovered.
+
+  ``Gentlemen,'' said little White, ``here come the
+last remains of Jean Marie Poquelin, a better man,
+I'm afraid, with all his sins,---yes a better---a kinder
+man to his blood---a man of more self-forgetful good-ness---
+than all of you put together will ever dare to
+be.''
+
+  There was a profound hush as the vehicle came
+creaking through the gate; but when it turned away
+from them toward the forest, those in front started
+suddenly. There was a backward rush, then all stood
+still again staring one way; for there, behind the bier,
+with eyes cast down and labored step, walked the
+living remains---all that was left of little Jacques
+Poquelin, the long-hidden brother---a leper, as white
+as snow.
+
+  Dumb with horror, the cringing crowd gazed upon
+the walking death. They watched, in silent awe, the
+slow _cort<e'>ge_ creep down the long, straight road and
+lessen on the view, until by and by it stopped where a
+wild, unfrequented path branched off into the undergrowth
+toward the rear of the ancient city.
+
+  ``They are going to the _Terre aux L<e'>preux,_'' said
+one in the crowd. The rest watched them in silence.
+
+  The little bull was set free; the mute, with the
+strength of an ape, lifted the long box to his shoulder. 
+For a moment more the mute and the leper stood in
+sight, while the former adjusted his heavy burden;
+then, without one backward glance upon the unkind
+human world, turning their faces toward the ridge in
+the depths of the swamp known as the Leper's Land,
+they stepped into the jungle, disappeared, and were
+never seen again.
+
+
+[*End*]
